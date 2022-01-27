@@ -2,8 +2,19 @@ html,
 body {
   padding: 0;
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  font-family: "Atkinson Hyperlegible", sans-serif;
+  background-color: var(--bg-color);
+  height: 100%;
+  color: var(--text-bright);
+}
+
+:root {
+  --mobile-width: 600px;
+  --bg-color: #f8eeed;
+  --bg-color-dark: #f2cfd3;
+  --text-bright: #d27379;
+  --text-color: #4d3d3e;
+  --border-color: #f8faf7;
 }
 
 a {
@@ -13,4 +24,8 @@ a {
 
 * {
   box-sizing: border-box;
+}
+
+#__next {
+  height: 100%;
 }

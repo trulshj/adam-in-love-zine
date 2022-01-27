@@ -1,0 +1,97 @@
+.buttonContainer {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.wrapper {
+  --letter-height: 50px;
+  --letter-width: calc(var(--letter-height) * 3 / 2);
+  --color-lid: deeppink;
+  --color-left: pink;
+  --color-bottom: lightpink;
+  --color-inside: orange;
+
+  height: var(--letter-height);
+  width: var(--letter-width);
+  background-color: var(--color-inside);
+  position: relative;
+  display: flex;
+  justify-content: center;
+  z-index: 0;
+}
+
+.lid {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  border-right: calc(var(--letter-width) / 2) solid transparent;
+  border-bottom: calc(var(--letter-height) / 2) solid transparent;
+  border-left: calc(var(--letter-width) / 2) solid transparent;
+  transform-origin: top;
+  transition: transform 0.1s linear;
+}
+
+/* Lid when closed */
+.lid.one {
+  border-top: calc(var(--letter-height) / 2) solid var(--color-lid);
+  transform: rotateX(0deg);
+  z-index: 3;
+  transition-delay: 0.3s;
+}
+
+/* Lid when opened */
+.lid.two {
+  border-top: calc(var(--letter-height) / 2) solid var(--color-inside);
+  transform: rotateX(90deg);
+  z-index: 1;
+  transition-delay: 0.2s;
+}
+
+.envelope {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+  border-top: calc(var(--letter-height) / 2) solid transparent;
+  border-right: calc(var(--letter-width) / 2) solid var(--color-bottom);
+  border-bottom: calc(var(--letter-height) / 2) solid var(--color-bottom);
+  border-left: calc(var(--letter-width) / 2) solid var(--color-left);
+  z-index: 3;
+}
+
+.letter {
+  position: absolute;
+  top: 0;
+  width: 80%;
+  height: 80%;
+  border-radius: 5px;
+  z-index: 2;
+  transition: 0.4s;
+}
+
+.buttonContainer:hover .lid.one,
+.buttonContainer:focus-visible .lid.one {
+  transform: rotateX(90deg);
+  transition-delay: 0s;
+}
+
+.buttonContainer:hover .lid.two,
+.buttonContainer:focus-visible .lid.two {
+  transform: rotateX(180deg);
+  transition-delay: 0.1s;
+}
+
+.buttonContainer:hover .letter,
+.buttonContainer:focus-visible .letter {
+  transform: translateY(-50px);
+  transform: translateY(calc(var(--letter-height) / -4));
+  transition-delay: 0.2s;
+}
+
+.buttonText {
+  font-size: 2rem;
+}
