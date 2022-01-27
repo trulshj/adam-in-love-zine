@@ -1,10 +1,6 @@
 import type { NextPage } from "next";
 import Head from "next/head";
-import Image from "next/image";
 import homeStyles from "../styles/Home.module.css";
-import styles from "../styles/About.module.css";
-
-import LetterButton from "../components/LetterButton";
 import Footer from "../components/Footer";
 
 const About: NextPage = () => {
@@ -20,7 +16,6 @@ const About: NextPage = () => {
       </Head>
 
       <main className={homeStyles.main}>
-        <LetterButton></LetterButton>
       </main>
       <Footer></Footer>
     </div>
