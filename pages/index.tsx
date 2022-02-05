@@ -7,29 +7,24 @@ const Home: NextPage = () => {
       <Head>
         <title>Adam in Love</title>
         <meta
-          name='description'
-          content='A zine about Adam from SK8 being in love <33'
+          name="description"
+          content="A zine about Adam from SK8 being in love <33"
         />
-        <link rel='icon' href='/favicon.ico' />
+        <link rel="icon" href="/favicon.ico" />
       </Head>
-      <h1>Home</h1>
       <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque ex
-        aspernatur explicabo, nesciunt nulla nemo dignissimos distinctio natus,
-        placeat laboriosam voluptate ad perferendis cumque. Suscipit unde minus
-        nulla corrupti illo?
-      </p>
-      <p>
-        Repellat, ut molestias! Distinctio culpa id sequi est voluptate, dolorem
-        nemo, quos vero, provident earum commodi impedit quae odit quia ipsum
-        laudantium laborum officia quam! Culpa repellendus recusandae placeat
-        esse?
-      </p>
-      <p>
-        Delectus pariatur aliquam suscipit, vero voluptate facere maiores
-        praesentium dolorem repellendus dicta ipsum, similique repellat
-        necessitatibus nesciunt voluptatem officia animi debitis. Repellat eveniet
-        iste porro dolorem at quae numquam laudantium.
+        Welcome to Adam in Love Webzine, a project for Adam loves by Adam
+        lovers. We are here to show our favourite character the love he deserves
+        by showering him in affection from other characters! Feel free to scroll
+        through the entire project, or find your favourite Adam ship in the
+        &quot;Zine&quot; envelope! We hope you like all the wonderful Adam
+        content created by our amazing contributors, and may this zine bring you
+        some joy, valentines day or not.
+        <br />
+        <br />
+        xoxo
+        <br />
+        Adam In Love moderators
       </p>
     </div>
   );
