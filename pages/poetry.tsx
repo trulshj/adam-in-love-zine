@@ -16,7 +16,7 @@ export default function Poetry() {
           <h4>Ship: {poetryList[poetryIndex].ship}</h4>
         </div>
       </div>
-      <div>
+      <div className={styles.poem}>
         {poetryList[poetryIndex].poem.map((stanza, idx) => (
           <p key={idx}>
             {stanza.map((line, idx) => (
