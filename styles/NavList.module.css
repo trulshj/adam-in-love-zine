@@ -5,3 +5,10 @@
 
   gap: 3rem;
 }
+
+@media (max-width: 800px) {
+  .navList {
+    flex-direction: row;
+    padding-top: 1rem;
+  }
+}

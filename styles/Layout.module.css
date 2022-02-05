@@ -10,7 +10,7 @@
 .grid {
   width: 100%;
   display: grid;
-  grid-template-columns: 1fr 3fr;
+  grid-template-columns: 1fr 4fr;
   gap: 2rem;
   place-content: center;
   flex: 1;
@@ -41,6 +41,9 @@
 }
 
 @media (max-width: 800px) {
+  .container {
+    padding: 0 0.8rem;
+  }
   .grid {
     grid-template-columns: 1fr;
     grid-auto-flow: row;

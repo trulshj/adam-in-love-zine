@@ -1,9 +1,11 @@
 import type { NextPage } from "next";
 import Head from "next/head";
 
+import styles from "../styles/Index.module.css";
+
 const Home: NextPage = () => {
   return (
-    <div>
+    <div className={styles.container}>
       <Head>
         <title>Adam in Love</title>
         <meta
