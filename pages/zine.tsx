@@ -10,23 +10,6 @@ import CycleButtons from "../components/CycleButtons";
 const Zine: NextPage = () => {
   const [artIndex, setArtIndex] = useState(0);
 
-  const prevArt = () => {
-    if (artIndex == 0) {
-      setArtIndex(art.length - 1);
-    } else {
-      setArtIndex(artIndex - 1);
-    }
-  };
-
-  const nextArt = () => {
-    if (artIndex == art.length - 1) {
-      setArtIndex(0);
-    } else {
-      setArtIndex(artIndex + 1);
-    }
-    console.log(artIndex);
-  };
-
   return (
     <div className={styles.container}>
       <Image
@@ -34,7 +17,11 @@ const Zine: NextPage = () => {
         src={art[artIndex]}
         alt="Adam in Love Zine Art"
       />
-      <CycleButtons increment={nextArt} decrement={prevArt} />
+      <CycleButtons
+        itemsLength={art.length}
+        itemsIndex={artIndex}
+        setItemsIndex={setArtIndex}
+      />
     </div>
   );
 };
