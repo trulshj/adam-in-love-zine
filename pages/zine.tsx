@@ -5,6 +5,7 @@ import Image from "next/image";
 import styles from "../styles/Zine.module.css";
 
 import { art } from "../lib/zines";
+import CycleButtons from "../components/CycleButtons";
 
 const Zine: NextPage = () => {
   const [artIndex, setArtIndex] = useState(0);
@@ -33,10 +34,7 @@ const Zine: NextPage = () => {
         src={art[artIndex]}
         alt="Adam in Love Zine Art"
       />
-      <div className={styles.buttonContainer}>
-        <button onClick={prevArt}>&lt;</button>
-        <button onClick={nextArt}>&gt;</button>
-      </div>
+      <CycleButtons increment={nextArt} decrement={prevArt} />
     </div>
   );
 };
