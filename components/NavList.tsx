@@ -5,17 +5,17 @@ import styles from "../styles/NavList.module.css";
 export default function NavList() {
   return (
     <nav className={styles.navList}>
-      <Link href='/'>
+      <Link href="/">
         <a>
-          <LetterButton letterColor='lightblue'>Home</LetterButton>
+          <LetterButton letterColor="lightblue">Home</LetterButton>
         </a>
       </Link>
-      <Link href='/about'>
+      <Link href="/about">
         <a>
-          <LetterButton letterColor='lightgreen'>About</LetterButton>
+          <LetterButton letterColor="lightgreen">About</LetterButton>
         </a>
       </Link>
-      <Link href='/zine'>
+      <Link href="/zine">
         <a>
           <LetterButton>Zine</LetterButton>
         </a>
