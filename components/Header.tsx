@@ -1,9 +1,12 @@
 import styles from "../styles/Header.module.css";
+import Image from "next/image";
+
+import titleLogo from "../public/title-logo.png";
 
 const Header = () => {
   return (
     <header className={styles.header}>
-      <h1>Adam in Love</h1>
+      <Image src={titleLogo} layout="responsive" alt="Adam in Love"></Image>
     </header>
   );
 };
