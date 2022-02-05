@@ -1,0 +1,27 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  padding: 1rem 0;
+}
+
+.poetryTitle {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+}
+
+.poetryTitle > * {
+  margin: 0;
+}
+
+.poetryTitle > div > * {
+  margin: 0;
+}
+
+.poetryTitle > div {
+  display: flex;
+  gap: 2rem;
+}
