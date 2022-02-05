@@ -1,7 +1,7 @@
 .header {
   font-size: 2rem;
-  width: min(700px, 50%);
-  padding-top: 1rem;
+  width: min(700px, 40%);
+  padding: 1rem 0;
 }
 
 .header > h1 {
