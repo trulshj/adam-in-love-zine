@@ -1,7 +1,7 @@
 .header {
   font-size: 2rem;
   width: min(700px, 50%);
-  margin-top: 1rem;
+  padding-top: 1rem;
 }
 
 .header > h1 {
@@ -11,6 +11,8 @@
 @media (max-width: 800px) {
   .header {
     width: 80%;
-    margin: 1rem 0;
+    padding: 1rem 0;
+    background-color: var(--bg-color);
+    z-index: 1;
   }
 }

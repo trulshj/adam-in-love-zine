@@ -4,11 +4,57 @@
   justify-content: center;
 
   gap: 3rem;
+  transition: all 400ms ease-in-out;
+}
+
+.menuButton {
+  position: absolute;
+  left: 0;
+  right: 0;
+  margin: auto;
+  border: none;
+  font-size: 1.5rem;
+  border-radius: 1rem;
+  padding: 0.5rem;
+  display: none;
+  background-color: var(--bg-color-dark);
+  color: var(--text-color);
+}
+
+.menuButton:hover,
+.menuButton:focus-visible {
+  background-color: var(--primary);
 }
 
 @media (max-width: 800px) {
+  .activeMenu {
+    transform: translateY(0);
+    height: 391px;
+  }
+
+  .inactiveMenu {
+    transform: translateY(-500px);
+    height: 0px;
+  }
   .navList {
-    flex-direction: row;
     padding-top: 1rem;
+    width: min-content;
+    margin: auto;
+    gap: 1rem;
+  }
+
+  .menuButton {
+    display: inline;
+    transition: all 400ms ease-in-out;
+  }
+
+  .activeButton {
+    position: relative;
+    bottom: 0;
+  }
+
+  .inactiveButton {
+    position: absolute;
+    bottom: -520px;
   }
 }
