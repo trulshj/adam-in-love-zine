@@ -7,10 +7,10 @@
 .wrapper {
   --letter-height: 50px;
   --letter-width: calc(var(--letter-height) * 3 / 2);
-  --color-lid: deeppink;
-  --color-left: pink;
-  --color-bottom: lightpink;
-  --color-inside: orange;
+  --color-lid: var(--text-bright);
+  --color-left: var(--accent);
+  --color-bottom: var(--primary);
+  --color-inside: var(--secondary);
 
   height: var(--letter-height);
   width: var(--letter-width);

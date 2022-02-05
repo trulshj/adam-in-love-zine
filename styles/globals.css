@@ -2,19 +2,40 @@ html,
 body {
   padding: 0;
   margin: 0;
-  font-family: "Atkinson Hyperlegible", sans-serif;
+  font-family: var(--open-sans-font);
   background-color: var(--bg-color);
   height: 100%;
   color: var(--text-bright);
 }
 
 :root {
+  --primary: #ff9494;
+  --secondary: #f7c2c2;
+  --accent: #ec7777;
+
   --mobile-width: 600px;
-  --bg-color: #f8eeed;
-  --bg-color-dark: #f2cfd3;
-  --text-bright: #d27379;
-  --text-color: #4d3d3e;
+  --bg-color-dark: #f7c2c2;
+  --bg-color: #fceeee;
+  --text-bright: #bd6060;
+  --text-color: #383838;
   --border-color: #f8faf7;
+
+  --atkinson-font: "Atkinson Hyperlegible", sans-serif;
+  --averia-sans-font: "Averia Sans Libre", cursive;
+  --open-sans-font: "Open Sans", sans-serif;
+  --inter-font: "Inter", sans-serif;
+}
+
+h1 {
+  font-family: var(--averia-sans-font);
+}
+
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: var(--inter-font);
 }
 
 a {
