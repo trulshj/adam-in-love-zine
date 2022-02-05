@@ -12,14 +12,6 @@ const footerProfiles: FooterLinkProps[] = [
 const Footer = () => {
   return (
     <footer className={styles.footer}>
-      <div className={styles.chibi}>
-        <Image
-          src={ainosuke}
-          alt='Chibi Ainosuke-sama'
-          width={200}
-          height={200}
-        />
-      </div>
       {footerProfiles.map((profile) => (
         <FooterLink
           key={profile.name + profile.verb}

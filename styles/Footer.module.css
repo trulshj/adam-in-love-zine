@@ -4,7 +4,6 @@
   justify-content: space-evenly;
   align-items: center;
   position: relative;
-  overflow: clip;
 }
 
 .footer a {
@@ -12,17 +11,4 @@
   justify-content: center;
   align-items: center;
   flex-grow: 1;
-}
-
-.chibi {
-  position: absolute;
-  display: block;
-  bottom: -6rem;
-  left: 1rem;
-  padding: 1rem;
-  transform: rotateZ(-20deg);
-}
-
-.chibi img {
-  transform: scaleX(-1);
 }

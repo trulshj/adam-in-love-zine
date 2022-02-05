@@ -4,6 +4,7 @@
   display: flex;
   flex-direction: column;
   height: 100%;
+  align-items: center;
 }
 
 .grid {
@@ -11,6 +12,7 @@
   display: grid;
   grid-template-columns: 1fr 3fr;
   gap: 2rem;
+  place-content: center;
   flex: 1;
 }
 
@@ -20,15 +22,31 @@
   justify-content: center;
   align-items: center;
   border: 1rem solid var(--border-color);
-  padding: 1rem;
   background-color: var(--bg-color-dark);
   color: var(--text-color);
   font-size: 1.5rem;
 }
 
-@media (max-width: 600px) {
+.chibi {
+  position: absolute;
+  display: block;
+  bottom: -6rem;
+  left: 1rem;
+  padding: 1rem;
+  transform: rotateZ(-10deg);
+}
+
+.chibi img {
+  transform: scaleX(-1);
+}
+
+@media (max-width: 800px) {
   .grid {
     grid-template-columns: 1fr;
     grid-auto-flow: row;
+  }
+
+  .chibi {
+    display: none;
   }
 }
