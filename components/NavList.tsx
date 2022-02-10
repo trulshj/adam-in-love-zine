@@ -3,7 +3,7 @@ import Link from "next/link";
 import LetterButton from "./LetterButton";
 import styles from "../styles/NavList.module.css";
 
-interface buttonType {
+export interface buttonType {
   href: string;
   text: string;
   color?: string;
@@ -15,9 +15,7 @@ export default function NavList() {
   const buttons: buttonType[] = [
     { href: "/", text: "Home", color: "white" },
     { href: "/about", text: "About", color: "white" },
-    { href: "/zine", text: "Art", color: "white" },
-    { href: "/poetry", text: "Poetry", color: "white" },
-    { href: "/prose", text: "Prose", color: "white" },
+    { href: "/zine", text: "Zine", color: "white" },
   ];
 
   return (
