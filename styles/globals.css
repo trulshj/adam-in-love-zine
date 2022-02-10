@@ -6,6 +6,20 @@ body {
   background-color: var(--bg-color);
   height: 100%;
   color: var(--text-bright);
+  background: linear-gradient(
+    135deg,
+    var(--bg-color) 40%,
+    #ffffff 40%,
+    #ffffff 70%,
+    var(--bg-color) 70%
+  );
+  /* Start #5cbcb0 from 0 and end at 5%, Start #fff at 5% and end at 15%, Start #5cbcb0 again at 15% and end at 100% */
+  background-size: 100% 100%;
+  background-repeat: no-repeat; /* To avoid multiple instances */
+}
+
+body {
+  overflow-y: hidden;
 }
 
 :root {

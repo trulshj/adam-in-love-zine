@@ -1,0 +1,26 @@
+.listContainer {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  width: 100%;
+  text-align: center;
+  align-items: center;
+}
+
+.listContainer > h2 {
+  margin: 0 0 0.5rem 0;
+}
+
+.listItem {
+  transition: all 200ms ease;
+}
+
+.listItem:hover,
+.listItem:focus-visible {
+  color: red;
+}
+
+.listItem > span {
+  font-weight: lighter;
+  font-size: smaller;
+}
