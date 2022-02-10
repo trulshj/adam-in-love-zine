@@ -6,7 +6,9 @@ import titleLogo from "../public/title-logo.png";
 const Header = () => {
   return (
     <header className={styles.header}>
-      <Image src={titleLogo} layout="responsive" alt="Adam in Love"></Image>
+      <div className={styles.logoContainer}>
+        <Image src={titleLogo} layout="responsive" alt="Adam in Love"></Image>
+      </div>
     </header>
   );
 };

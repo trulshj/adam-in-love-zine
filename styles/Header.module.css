@@ -1,11 +1,12 @@
 .header {
   font-size: 2rem;
-  width: min(700px, 40%);
+  width: 100%;
   padding: 1rem 0;
+  display: grid;
 }
 
-.header > h1 {
-  margin: 1rem 0;
+.logoContainer {
+  width: 100%;
 }
 
 @media (max-width: 800px) {
