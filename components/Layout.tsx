@@ -14,14 +14,15 @@ export interface ILayoutProps {
 export default function Layout({ children }: ILayoutProps) {
   return (
     <div className={styles.container}>
-      <Header />
-
       <div className={styles.grid}>
-        <NavList />
+        <div className={styles.navigation}>
+          <Header />
+          <NavList />
+        </div>
         <main className={styles.main}>{children}</main>
       </div>
 
-      <Footer />
+      {false ? <Footer /> : null}
 
       <div className={styles.chibi}>
         <Image

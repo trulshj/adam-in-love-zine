@@ -5,6 +5,8 @@
 
   gap: 3rem;
   transition: all 400ms ease-in-out;
+
+  flex: 1;
 }
 
 .menuButton {
