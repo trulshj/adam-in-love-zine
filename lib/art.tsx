@@ -14,5 +14,6 @@ import m from "../public/BAD_BAD_TIME_adam_in_love-1.png";
 import n from "../public/CRUMBS_AIL_LoveBlossom-1.png";
 import o from "../public/Elianthos_TadaAi art1_AiL zine-1.png";
 import p from "../public/Elianthos_TadaAi art2_collab w Queenie_AiL zine-1.png";
+import q from "../public/ADAM_IN_LOVE-Dk JOE_CHERRY_ADAM_GRANDTACOSUPREM-1.png";
 
-export const art = [a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p];
+export const art = [a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, q];
