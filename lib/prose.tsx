@@ -14,8 +14,8 @@ export const proseList: ProseType[] = [
   {
     id: 1,
     title: "LOVED WITH AN APPLE",
-    author: "_delacroiix",
-    ship: "",
+    author: "Delacroiix",
+    ship: "Adam/Tadashi",
     paragraphs:
       ` The world was black and white before it became grey for Ainosuke. The proper and the unseemly. The allowed and the forbidden. Family and strangers. Himself and the rest of the world. Black, proper, allowed, and family were good for him. White, unseemly, forbidden, strangers, and the rest of the world were not. There was a circle traced around the boy. Everything would be alright as long as he stayed between its bounds, like a secret left in the hands of his loving aunts. The very same hands that traced those bounds.<br>
               But his Ainosuke always had a knack for testing boundaries. Always drawn to the other side of the line, desperate for a taste of the white, the unseemly, and the forbidden. Strangers and the rest of the world were all he wanted. He would take in whoever showed him a bit of it, a momentary peek into everything he couldn’t have. Tadashi thought he ought to loathe him. This was typical of rich kids, wanting things on a whim, just because they were out of their reach. <br>
@@ -1999,7 +1999,7 @@ Ainosuke felt like his broad grin could split his face in half.
   {
     id: 14,
     title: "So This is Love",
-    author: "Treeviking",
+    author: "Vanya_Instance",
     ship: "Adam/Kiriko",
     paragraphs:
       `Tadashi walked down the corridor that led to Ainosuke Shindo’s home office with soft, almost silent steps thanks to the plush carpet that muffled every tread of his hard-soled shoes. He held in his hands, a sheaf of paperwork, and wore on his face, an expression that was impossible to read. Had one been able to, though, it would have been one that spoke of mild irritation. ‘Ainosuke-sama,’ he murmured softly after two polite knocks on the door. ‘She is here again.’<br />
