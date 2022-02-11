@@ -19,11 +19,6 @@ const FullZine: NextPage = () => {
 
   return (
     <div className={styles.container}>
-      <CycleButtons
-        itemsLength={zineList.length}
-        itemsIndex={itemIndex}
-        setItemsIndex={setItemIndex}
-      />
       {zineList[itemIndex].type == ZineItemType.Art ? (
         <ArtItem art={zineList[itemIndex].content as ArtType} />
       ) : zineList[itemIndex].type == ZineItemType.Poetry ? (
@@ -31,6 +26,11 @@ const FullZine: NextPage = () => {
       ) : (
         <ProseItem prose={zineList[itemIndex].content as ProseType} />
       )}
+      <CycleButtons
+        itemsLength={zineList.length}
+        itemsIndex={itemIndex}
+        setItemsIndex={setItemIndex}
+      />
     </div>
   );
 };
