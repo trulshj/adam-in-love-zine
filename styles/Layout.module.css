@@ -37,6 +37,7 @@
   left: 1rem;
   padding: 1rem;
   transform: rotateZ(-10deg);
+  display: none;
 }
 
 .chibi img {
