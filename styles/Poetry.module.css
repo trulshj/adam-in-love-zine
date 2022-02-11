@@ -32,4 +32,5 @@
 .poem {
   font-size: 1.1rem;
   flex: 1;
+  overflow-y: scroll;
 }

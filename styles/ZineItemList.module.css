@@ -5,6 +5,8 @@
   width: 100%;
   text-align: center;
   align-items: center;
+  overflow-y: scroll;
+  max-height: 90vh;
 }
 
 .listContainer > h2 {
