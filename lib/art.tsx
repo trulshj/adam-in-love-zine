@@ -3,7 +3,7 @@ import frontCover from "../public/Adam in Love Cover lillachan-1.png";
 import badCollab from "../public/Adam_in_love_collab_bad-1.png";
 import luDoscope from "../public/Adam_in_Love_Fantasy_AU_Lu.doscope_-1.png";
 import kamedoriCollab from "../public/Adam_in_love_kame-dori_collab_shadow_tada_ai-1.png";
-import kameDoriSpread from "../public/Adam_in_love_kame-dori_JoeAda-1.png";
+import kameDoriSpread from "../public/kamedori-spread.png";
 import emailFic from "../public/Illustration (3).png";
 import mirageprinceCollab from "../public/AdaminLove_EDENSnake_MiragePrince-1.png";
 import tyulezhik from "../public/adaminlove_tadaai_tyulezhik-1.png";
