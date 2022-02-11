@@ -3,14 +3,21 @@ import EmailFic from "../../components/EmailFic";
 
 import { ProseType } from "../../lib/prose";
 import ArtItem from "./Art";
+import { MutableRefObject, ReactNode, useEffect, useRef } from "react";
 
 export interface ProseItemProps {
   prose: ProseType;
 }
 
 export default function ProseItem({ prose }: ProseItemProps) {
+  const ficContainer = useRef<HTMLDivElement>(null);
+
+  useEffect(() => {
+    ficContainer.current?.scrollTo({ top: 0 });
+  });
+
   return (
-    <div className={styles.container}>
+    <div className={styles.container} ref={ficContainer}>
       <div className={styles.proseTitle}>
         <h2>{prose.title}</h2>
         <div>
