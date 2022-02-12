@@ -1,3 +1,17 @@
 .container {
   padding: 3rem;
 }
+
+@media (max-width: 800px) {
+  .container {
+    padding: 0;
+    overflow-y: scroll;
+    max-height: 70vh;
+  }
+
+  .container > p {
+    margin: 0;
+    padding-right: 0.4rem;
+    text-align: center;
+  }
+}
