@@ -19,13 +19,13 @@
   border-radius: 1rem;
   padding: 0.5rem;
   display: none;
-  background-color: var(--bg-color-dark);
+  background-color: var(--primary);
   color: var(--text-color);
 }
 
 .menuButton:hover,
 .menuButton:focus-visible {
-  background-color: var(--primary);
+  background-color: var(--accent);
 }
 
 @media (max-width: 800px) {
@@ -58,6 +58,7 @@
   .menuButton {
     display: inline;
     transition: all 400ms ease-in-out;
+    width: min-content;
   }
 
   .activeButton {
@@ -67,6 +68,6 @@
 
   .inactiveButton {
     position: absolute;
-    bottom: -490px;
+    bottom: -505px;
   }
 }

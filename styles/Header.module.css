@@ -14,4 +14,9 @@
     padding: 1rem 0;
     z-index: 1;
   }
+
+  .logoContainer {
+    width: 90%;
+    margin: auto;
+  }
 }
