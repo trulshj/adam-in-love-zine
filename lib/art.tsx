@@ -114,13 +114,13 @@ export const artList: ArtType[] = [
     id: 14,
     author: "Elianthos",
     ship: "Adam/Tadashi",
-    image: elianthoscollab,
+    image: elianthos,
   },
   {
     id: 15,
     author: "Elianthos", // collab
     ship: "Adam/Tadashi",
-    image: elianthos,
+    image: elianthoscollab,
   },
   {
     id: 16,
