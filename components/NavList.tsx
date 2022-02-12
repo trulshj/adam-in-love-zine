@@ -26,7 +26,7 @@ export default function NavList() {
     >
       {buttons.map((button, idx) => (
         <Link key={idx} href={button.href}>
-          <a>
+          <a onClick={() => setShowMenu(false)}>
             <LetterButton letterColor={button.color}>
               {button.text}
             </LetterButton>
