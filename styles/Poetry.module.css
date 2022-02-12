@@ -34,3 +34,15 @@
   flex: 1;
   overflow-y: scroll;
 }
+
+@media (max-width: 800px) {
+  .container {
+    max-height: 70vh;
+    gap: 1rem;
+  }
+
+  .poem {
+    overflow-y: scroll;
+    width: 100%;
+  }
+}

@@ -13,7 +13,7 @@ export default function ArtItem({ art }: ArtProps) {
       <Image
         className={styles.art}
         src={art.image}
-        alt="Adam in Love Zine Art"
+        alt={`Art by ${art.author} is loading in`}
         layout="fill"
         objectFit="contain"
       />

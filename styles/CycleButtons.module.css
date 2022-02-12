@@ -18,3 +18,9 @@
 .buttonContainer > button:focus-visible {
   color: var(--primary);
 }
+
+@media (max-width: 800px) {
+  .buttonContainer > button {
+    font-size: 3em;
+  }
+}

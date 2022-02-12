@@ -49,8 +49,13 @@
     padding: 0 0.8rem;
   }
   .grid {
-    grid-template-columns: 1fr;
-    grid-auto-flow: row;
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+  }
+
+  .main {
+    flex: 1;
   }
 
   .chibi {
