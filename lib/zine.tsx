@@ -52,7 +52,7 @@ export const zineList: ZineItem[] = [
   artZineItems[13], // crumbs art
   poetryZineItems[1], // poetry 2
   proseZineItems[8], // keitora fic
-  artZineItems[16], // krynnea art
+  artZineItems[17], // krynnea art
   proseZineItems[11], // tweilightplants fic + bad art
   proseZineItems[14], // thechaoscryptid fic
   poetryZineItems[3], // poetry 4
