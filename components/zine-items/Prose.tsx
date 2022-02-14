@@ -34,7 +34,7 @@ export default function ProseItem({ prose }: ProseItemProps) {
                 paragraph.trim().length == 1 ? styles.centered : undefined
               }
               key={idx}
-              dangerouslySetInnerHTML={{ __html: paragraph }}
+              dangerouslySetInnerHTML={{ __html: paragraph.trim() }}
             ></p>
           ))
         ) : (

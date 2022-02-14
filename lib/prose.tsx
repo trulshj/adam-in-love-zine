@@ -99,12 +99,12 @@ Still, he told himself, this isn’t an absolute loss. There has been no punishm
     title: "There's Just Something About You",
     author: smartZelda,
     ship: "Tadaaidow",
-    paragraphs:
-      `It isn’t a week of work without it for Hiromi--a period of stillness, devoid of the proof of life aside from flowers and Hiromi’s own slowed breathing. Flower shops are popular enough, sure--there’s always a couple, a secret admirer, someone with a sick friend, a wedding order, or just someone looking to liven up their house, after all. There’s always more traffic around holidays, it’s true, yet the period of deadness feels inescapable.<br />
+    paragraphs: `
+     It isn’t a week of work without it for Hiromi—a period of stillness, devoid of the proof of life aside from flowers and Hiromi’s own slowed breathing. Flower shops are popular enough, sure—there’s always a couple, a secret admirer, someone with a sick friend, a wedding order, or just someone looking to liven up their house, after all. There’s always more traffic around holidays, it’s true, yet the period of deadness feels inescapable.<br />
 
-Sometimes Hiromi takes time to hone his ikebana skills, experiment using his friends or an object of affection as a muse--he’d gifted a few to his manager even before his failed confession attempt--but today just seems to be one of those days. He leans back against the front counter of the flower shop, staring at the ceiling. He can’t bring himself to do anything, bored as he is.<br />
+Sometimes Hiromi takes time to hone his ikebana skills, experiment using his friends or an object of affection as a muse—he’d gifted a few to his manager even before his failed confession attempt—but today just seems to be one of those days. He leans back against the front counter of the flower shop, staring at the ceiling. He can’t bring himself to do anything, bored as he is.<br />
 
-<em>If they weren’t so <strong>dense-</strong></em><br />
+<em>If they weren’t so <strong>dense–</strong></em><br />
 
 Hiromi scrunches up his eyebrows as the doorbell rings and the door briefly whooshes open.<br />
 
@@ -112,13 +112,13 @@ Hiromi scrunches up his eyebrows as the doorbell rings and the door briefly whoo
 
 <em>No, Kikuchi never visits this day of the week. This is <strong>when</strong> he usually does though…</em><br />
 
-Tadashi Kikuchi has been a constant in Hiromi’s life as a flower shop employee for the past few years. He’s a regular who always comes on one of the same few days of the week, specifically during the dead hour. Each time it boggles Hiromi’s mind how Tadashi is able to calculate exactly <em>when</em> the dead period of the day will be; nevertheless, Hiromi is always there to take Tadashi’s orders, big or small--whether they be elaborate arrangements or just bouquets of red roses.<br />
+Tadashi Kikuchi has been a constant in Hiromi’s life as a flower shop employee for the past few years. He’s a regular who always comes on one of the same few days of the week, specifically during the dead hour. Each time it boggles Hiromi’s mind how Tadashi is able to calculate exactly <em>when</em> the dead period of the day will be; nevertheless, Hiromi is always there to take Tadashi’s orders, big or small—whether they be elaborate arrangements or just bouquets of red roses.<br />
 
-These last few weeks of Tadashi’s visits have been different, though, starting with the aftermath of Adam’s tournament. Just before he’d gone to confess--after spending forever working up the courage--he’d learned his manager already has a partner. It broke his heart, but life goes on.<br />
+These last few weeks of Tadashi’s visits have been different, though, starting with the aftermath of Adam’s tournament. Just before he’d gone to confess—after spending forever working up the courage—he’d learned his manager already has a partner. It broke his heart, but life goes on.<br />
 
-Tadashi visited the flower shop as per usual, and like a blessing, a consolation from heaven, Tadashi had considered him. Historically, Tadashi made his order, paid, and left. No more, no less. No “good afternoon”, he never returned greetings, and he always had that blank expression. However, <em>this</em> time, when Tadashi came in asking for a bouquet, Tadashi had asked him to pick the arrangement.<br />
+Tadashi visited the flower shop as per usual, and like a blessing, a consolation from heaven, Tadashi had <em>considered</em> him. Historically, Tadashi made his order, paid, and left. No more, no less. No “good afternoon”, he never returned greetings, and he always had that blank expression. However, <em>this</em> time, when Tadashi came in asking for a bouquet, Tadashi had asked <em>him</em> to pick the arrangement.<br />
 
-Hiromi could not help but be taken aback at the time, but he fulfilled this request regardless, cheeks tinged pink. He was <em>embarrassed</em>, of course. All these years, Tadashi had never acknowledged him as a person and never asked for his opinion. They’d never made any sort of real connection and yet... Maybe Tadashi had never cared about him, only coming into the shop because he needed to, but the meaning behind the arrangement would be Hiromi’s little secret anyways.<br />
+Hiromi could not help but be taken aback at the time, but he fulfilled this request regardless, cheeks tinged pink. He was <em>embarrassed</em>, of course. All these years, Tadashi had never acknowledged him as a person and never asked for his opinion. They’d never made any sort of <em>real</em> connection and <em>yet</em>... Maybe Tadashi had never cared about him, only coming into the shop because he needed to, but the meaning behind the arrangement would be Hiromi’s little secret anyways.<br />
 
 Tadashi’s face was blank as always, but there was an unmistakable flame of life in his eyes that’d been but a dying spark before. That flame of life has only grown these past few weeks.<br />
 
@@ -126,27 +126,27 @@ Hiromi turns toward the doorway, already preparing his customer service smile.<b
 
 It’s a man a bit taller than Tadashi who crosses the threshold into the shop. His hair is a bright blue rather than black, and it’s slicked back as well. Like his hair, <em>his</em> suit is also a more vibrant blue, in contrast to the muted black of Tadashi’s suit.<br />
 
-Dumbass, Hiromi curses himself.<br />
+<em>Dumbass</em>, Hiromi curses himself.<br />
 
-<em>What? Telling me you <strong>hoped</strong> it would be him? he chastises his own heart. Don’t forget there are people <strong>other</strong> than Tadashi that buy flowers. He’s not the only person to come when it’s dead.</em><br />
+<em>What? Telling me you <strong>hoped</strong> it would be him?</em> he chastises his own heart. <em>Don’t forget there are people <strong>other</strong> than Tadashi that buy flowers. He’s not the only person to come when it’s dead.</em><br />
 
 His next thoughts, however, are concerned with the man who’s walked in. He’s handsome, no doubt, with that sculpted jawline, those piercing crimson eyes. It doesn’t help that the light filtering through the windows strikes the man perfectly, accentuating his features. When the man flashes his charming smile at Hiromi upon approach, his heart skips a beat.<br />
 
-This man is the opposite of Tadashi--so much so--in demeanor, in look, even by how he just shines, inherently. If Tadashi is reserved, then this man is the center of attention. Regardless of the difference, though, Hiromi is smitten all the same.<br />
+This man is the opposite of Tadashi—so much so—in demeanor, in look, even by how he just shines, inherently. If Tadashi is reserved, then this man is the center of attention. Regardless of the difference, though, Hiromi is smitten all the same.<br />
 
 He wants to wonder why that is, why two very different men in different suits can make his voice go weak, make his heart skip a beat, even at his first encounter with them, but his brain makes the connection instantly.<br />
 
-Manager energy.<br />
+<em>Manager energy.</em><br />
 
 It's the "manager energy" as Reki put it once, after he’d seen how Hiromi acts around the manager of Dope Sketch.<br />
 
-Sometimes, it’s about the suit, but usually it’s about that air of command they have. It’s about how they seem above him, perhaps even above humanity. Their very existence tells Hiromi that they make the rules–<em>they’re</em> in charge. There’s just something about them that is inherently domineering.<br />
+Sometimes, it’s about the suit, but usually it’s about that air of command they have. It’s about how they seem above him, perhaps even above humanity. Their very existence tells Hiromi that they make the rules—<em>they’re</em> in charge. There’s just something about them that is <em>inherently</em> domineering.<br />
 
 Not for the first time, and certainly not for the last, Hiromi wants to strangle that brat for calling him out.<br />
 
 Luckily, the interaction is simple. He wills the customer service smile to stay on his face as he welcomes the blue haired man.<br />
 
-The man flashes another smile as he requests a bouquet of assorted roses--red, white, and pink.<br />
+The man flashes another smile as he requests a bouquet of assorted roses—red, white, and pink.<br />
 
 Hiromi focuses only on fulfilling the request at first, but nervousness settles into his chest as the man’s eyes bear down on him.<br />
 
@@ -154,23 +154,23 @@ Hiromi focuses only on fulfilling the request at first, but nervousness settles 
 
 <em>You’ve done this a thousand times. <strong>Stop</strong> shaking.</em><br />
 
-He has a hard time not glancing back at the man, staring. The last thing he wants to do is embarrass himself--let his heart turn him into the clumsy shoujo protagonist of a romance manga.<br />
+He has a hard time not glancing back at the man, staring. The last thing he wants to do is embarrass himself—let his heart turn him into the clumsy shoujo protagonist of a romance manga.<br />
 
 Hiromi holds back a sigh of relief when he completes the bouquet. His hands were shaking a little along the way, his heart is racing, but he hasn’t made a single stupid mistake. The flower shop is deathly quiet aside from his and the man’s breathing as he holds out the bouquet of roses.<br />
 
-“Your t-total is-” Hiromi clamps his mouth shut.<br />
+“Your t-total is–” Hiromi clamps his mouth shut.<br />
 
-That single stutter rises above his head, casting its shadow over him. It’s only a single slip up, a simple mistake, but it’s plain to see--easy to catch--in such an empty, quiet room. Hiromi’s heart plummets down.<br />
+That single stutter rises above his head, casting its shadow over him. It’s only a single slip up, a simple mistake, but it’s plain to see—easy to catch—in such an empty, quiet room. Hiromi’s heart plummets down.<br />
 
 <em>Dumbass.</em><br />
 
-Yet, almost like the mistake never occurred--or as if he could care less--the man in the suit hands over a large wad of bills, taking the bouquet from Hiromi’s hands with a smile.<br />
+Yet, almost like the mistake never occurred—or as if he could care less—the man in the suit hands over a large wad of bills, taking the bouquet from Hiromi’s hands with a smile.<br />
 
-Hiromi’s been staring, motionless since the mistake, but he suddenly regains his awareness. “...Sir, I’m-”<br />
+Hiromi’s been staring, motionless since the mistake, but he suddenly regains his awareness. “...Sir, I’m–”<br />
 
 “Shh…” The man presses his pointer finger to his own lips, shushing Hiromi before he can say another word. He turns, striding towards the door.<br />
 
-It’s then Hiromi’s lips part, his jaw falls somewhat slack, and a blush runs across his cheeks. He’s frozen once again as he stares at the back of the man, letting his eyes trail from his sensible shoes, up to the back of his head of that vibrant blue hair, then landing down by the hips. He would be lying if he said he wasn’t checking the man out from behind as he left.<br />
+It’s then Hiromi’s lips part, his jaw falls somewhat slack, and a blush runs across his cheeks. He’s frozen once again as he stares at the back of the man, letting his eyes trail from his sensible shoes, up to the back of his head of that vibrant blue hair, then landing down by the hips. He would be lying if he said he <em>wasn’t</em> checking the man out from behind as he left.<br />
 
 <em>His pants are...tight.</em><br />
 
@@ -206,7 +206,7 @@ Tadashi had furrowed up his brows in confusion. “Then who are they for, master
 
 “Well I’m glad you asked.” Ainosuke peered deep into those eyes of his, studying them for a reaction. “They’re...for <em>you</em>, puppy.”<br />
 
-<em>He’d thanked me formally after that, Ainosuke recalls. But you could see the <strong>look</strong> in his eyes.</em><br />
+<em>He’d thanked me formally after that,</em> Ainosuke recalls. <em>But you could see the <strong>look</strong> in his eyes.</em><br />
 
 “Shut the door,” Ainosuke had commanded, smirking, and Tadashi did. “How do you really feel?”<br />
 
@@ -247,13 +247,13 @@ When the last couple leaves the flower shop, Hiromi waits. Once the sidewalk in 
 
 Hiromi scurries around the store like a fearful child who’s trying to finish a chore just before his parents arrive. Someone could walk in at any time, so he gathers different flowers around the store, going off of a vague plan of his creation.<br />
 
-He moves to fetch a simple vase he'd hidden--one he'd bought with his own money--after placing the flowers on the front desk. The design of the vase is shades of brown layered in a horizontal wave pattern, from the bluest of the browns at the bottom to the reddest at the top.<br />
+He moves to fetch a simple vase he'd hidden—one he'd bought with his own money—after placing the flowers on the front desk. The design of the vase is shades of brown layered in a horizontal wave pattern, from the bluest of the browns at the bottom to the reddest at the top.<br />
 
 He glances over to the pile of flowers, to the vase, and back to the flowers again, ruminating for a second before he reaches for the first one.<br />
 
 Hiromi freezes when the bell rings. He pulls his hand to his side as he turns towards the door, where a charming man saunters up to the desk.<br />
 
-<em>Who-? <strong>Wait.</strong></em><br />
+<em>Who–? <strong>Wait.</strong></em><br />
 
 <em>It's…<strong>him</strong>,</em> Hiromi realizes, eyes widening. <br />
 
@@ -271,9 +271,9 @@ Interested after their initial meeting, Hiromi had researched the man on a whim,
 
 "Mr. Shindo, correct?"<br />
 
-"I insist you call me Ainosuke," he drawls.<br />
+"I <em>insist</em> you call me Ainosuke," he drawls.<br />
 
-Was that a hint of annoyance in his voice? No, the real question is why such a famous man would ask a nobody to call him by his given name in the first place.<<br />
+Was that a hint of annoyance in his voice? No, the real question is why such a famous man would ask a nobody to call him by his given name in the first place.<br />
 
 <em>That's not your place to pry.</em><br />
 
@@ -286,7 +286,7 @@ Hiromi resists the urge to sigh. "<em>Ainosuke</em>, sir."<br />
 
 <em>Bit particular isn't he?</em><br />
 
-"What do you have there?" Mr. Shindo--Ainosuke--asks, ignoring Hiromi’s question.<br />
+"What do you have there?" Mr. Shindo—Ainosuke—asks, ignoring Hiromi’s question.<br />
 
 Hiromi follows Ainosuke's eyes, glancing towards the vase and the flowers on the desk. "These?" he asks, placing a hand atop the vase.<br />
 
@@ -322,7 +322,7 @@ Hiromi pauses for a moment. "I apologize if I'm overstepping, but why do you wan
 
 Ainosuke laughs, and Hiromi can't deny how it warms his heart. "I've simply got nothing better to do."<br />
 
-It's a lie, surely--one he’ll tell every visit for weeks to come. He’s a rich politician. He <em>must</em> have meetings to preside over, social gatherings to attend, and speeches to give, so why waste time <em>here</em>?<br />
+It's a lie, surely—one he’ll tell every visit for weeks to come. He’s a rich politician. He <em>must</em> have meetings to preside over, social gatherings to attend, and speeches to give, so why waste time <em>here</em>?<br />
 
 "So, why <em>this</em> placement of the flowers," Ainosuke asks, pointing at the vase. "What sets the sunflower apart from that blue one arching higher up? Why are <em>they</em> tied together instead of with, say, the red rose? Is there any meaning to its type?"<br />
 
@@ -360,7 +360,7 @@ It's a question so wildly off topic it causes Tadashi’s brows to furrow. Never
 
 <em>He doesn't <strong>sound</strong> disappointed, but…</em><br />
 
-"If it displeases you, sir, I can stop. I know-"<br />
+"If it displeases you, sir, I can stop. I know–"<br />
 
 "It's okay, Tadashi. I'm not disappointed."<br />
 
@@ -368,11 +368,11 @@ Tadashi pulls back to stare into those crimson eyes, analyzing them for emotion,
 
 There's a smile on Ainosuke's face. "How can I be <em>disappointed</em>? I probably have <em>him</em> to thank for your progress in opening up to me."<br />
 
-"That's...partially true." Tadashi adds, "But I <em>have</em> been working at it for you."<br />
+"That's...partially true." Tadashi adds, "But I <em>have</em> been working at it for <em>you</em>."<br />
 
 Ainosuke smiles a genuine smile then, and Tadashi refrains from raising an eyebrow. Not too long ago, the idea of Tadashi spending meaningful time with another man might have awakened Ainosuke's more...possessive tendencies; however, Ainosuke seems almost <em>happy, encouraging</em> of it.<br />
 
-Ainosuke leans close to Tadashi, breathing deeply into his ear, "Tell me more about him."<br />
+Ainosuke leans close to Tadashi, breathing deeply into his ear, "Tell me more about <em>him</em>."<br />
 
 Tadashi suppresses a shudder, though a flush works its way onto his face regardless. "He's <em>thoughtful</em>. He's a good teacher…"<br />
 
@@ -392,7 +392,7 @@ There's a moment of silence, of stillness, before Ainosuke laughs loudly. "I <em
 
 <em>I knew it.</em><br />
 
-Tadashi knows where Ainosuke is at <em>all</em> times. He curates his schedule. <em>He</em> drives him around. It isn't as if Ainosuke hid it too well either. <br />
+Tadashi knows where Ainosuke is at <em>all</em> times. <em>He</em> curates his schedule. <em>He</em> drives him around. It isn't as if Ainosuke hid it too well either. <br />
 
 Ainosuke leans close, breathing hot air into Tadashi’s face. Heat goes straight to his cheeks.<br />
 
@@ -400,7 +400,7 @@ Ainosuke leans close, breathing hot air into Tadashi’s face. Heat goes straigh
 
 The idea is risky. There’s no telling how a third person will affect their relationship, how Mr. Higa will take being pulled deeper into their affairs, or even how much more damage control Tadashi will have to run.<br />
 
-But Tadashi can’t say no--not to Ainosuke--and he can’t deny the positive impact Hiromi has on them both.<br />
+But Tadashi can’t say no—not to Ainosuke—and he can’t deny the positive impact Hiromi has on them both.<br />
 
 “Yes, Master Ainosuke.” Tadashi smiles.<br />
 
@@ -416,7 +416,7 @@ Hiromi stops abruptly as the door before him is shoved open.<br />
 
 "Hiromi!"<br />
 
-"U-uh, yes?!" A smile--a real, although exaggerated one--springs onto his face.<br />
+"U-uh, yes?!" A smile—a real, although exaggerated one—springs onto his face.<br />
 <em>Stupid! Stupid! Stop acting all giddy and happy!</em><br />
 
 <em>She's got a partner!</em><br />
@@ -437,19 +437,19 @@ He barely has to lift the cover before the smell hits his nose.<br />
 
 <em>Chocolate?</em><br />
 
-"Who'd send me chocolate?"<<br />
+"Who'd send me chocolate?"<br />
 
 "A secret admirer?" his manager answers, before smirking. "<em>Maybe</em> it's that plain man in the suit who visits every week. His name was…Kikuchi? The delivery man looked a bit like him."<br />
 
 Hiromi turns away in an attempt to hide his reddening cheeks.<br />
 
-"Or maybe...it's that politician. The one with the vibrant blue hair and charming smile." She teases, winking, "They <em>both</em> have been coming by to talk to you often. Maybe one of them-"<br />
+"Or <em>maybe</em>...it's that politician. The one with the vibrant blue hair and charming smile." She teases, winking, "They <em>both</em> have been coming by to talk to you often. Maybe one of them–"<br />
 
 "T-that's enough!" Hiromi bursts, face red as the card in his hands. However, he realizes his mistake in an instant, immediately turning to his manager.<br />
 
 "I-I apologize, ma'am! That was...out of line."<br />
 
-<em>You may be something of friends, but you can't just do <strong>hat</strong>! he chastises himself.<em><br />
+<em>You may be something of friends, but you can't just do <strong>that</strong>! he chastises himself.<em><br />
 
 "It won't happen again!" He bows to her.<br />
 
@@ -467,95 +467,95 @@ It's here he remembers the card, flipping it over to the other side.<br />
 
 Hiromi fills his manager in, forcing himself to contain a sigh.<br />
 
-Turns out, rather than a love letter, the card is a business request. It requests Hiromi's presence at a certain high class hotel diner "just after the sun sets" so he and--likely--the sender may discuss making the flower shop the Shindo estate's official florist.<br />
+Turns out, rather than a love letter, the card is a business request. It requests Hiromi's presence at a certain high class hotel diner "just after the sun sets" so he and—likely—the sender may discuss making the flower shop the Shindo estate's official florist.<br />
 
-"Wow, that's amazing!" The manager puts a hand on Hiromi’s shoulder. "Looks like you have a chance to land something big for this little shop."<br />
+"Wow, that's amazing!" The manager puts a hand on Hiromi’s shoulder. "Looks like you have a chance to land something <em>big</em> for this little shop."<br />
 
-She’s right. It’s truly an <em>amazing opportunity, but there’s something Hiromi doesn’t understand.<br />
+She’s right. It’s truly an <em>amazing</em> opportunity, but there’s something Hiromi doesn’t understand.<br />
 
-Why invite a regular employee instead of the manager?<br>
+Why invite a regular employee instead of the manager?<br />
 
-Maybe Ainosuke was impressed with Hiromi’s skills and assumed he's the manager?<br>
+Maybe Ainosuke was impressed with Hiromi’s skills and assumed <em>he's</em> the manager?<br />
+He doesn't know. <br />
 
-He doesn't know. <br>
+~<br />
 
-~<br>
+<em>I can't believe this is scheduled on my off day…</em><br />
 
-I can't believe this is scheduled on my off day...<br>
+Worse still, he has to miss skating S tonight, but he can’t quite complain. After all, his host <em>is</em> treating him to a fancy dinner.<br />
 
-Worse still, he has to miss skating S tonight, but he can’t quite complain. After all, his host is treating him to a fancy dinner.<br>
+A hotel associate escorts Hiromi past a large room, filled with mostly empty fancy tables and chairs. Just a few couples and small families sit inside, dining, of course. Hiromi’s eyebrows scrunch up.<br />
 
-A hotel associate escorts Hiromi past a large room, filled with mostly empty fancy tables and chairs. Just a few couples and small families sit inside, dining, of course. Hiromi’s eyebrows scrunch up.<br>
+<em>This <strong>can't</strong> be right.</em><br />
 
-This can't be right.<br>
+"Hey. Excuse me." He turns to his guide once they've entered an elevator. “I assumed we’d be dining in the dining hall tonight.”<br />
 
-"Hey. Excuse me." He turns to his guide once they've entered an elevator. “I assumed we’d be dining in the dining hall tonight.”<br>
+The associate presses a button, sending the elevator upwards. They sigh, “Mr. Shindo booked a private room for your...business.”<br />
 
-The associate presses a button, sending the elevator upwards. They sigh, “Mr. Shindo booked a private room for your...business.”<br>
+<em>I guess he really <strong>is</strong> secretive…</em><br />
 
-I guess he really is secretive...<br>
+Next thing Hiromi knows, he’s stepped into a hotel room, door locking behind him.<br />
 
-Next thing Hiromi knows, he’s stepped into a hotel room, door locking behind him.<br>
+<em>What?</em><br />
 
-What?<br>
+He tentatively follows scattered rose petals across wine-red carpet, past the bathroom, past the king-sized bed, and out to a balcony.<br />
 
-He tentatively follows scattered rose petals across wine-red carpet, past the bathroom, past the king-sized bed, and out to a balcony.<br>
+“Is this how Ainosuke conducts all his business?” Hiromi whispers, wondering aloud.<br />
 
-“Is this how Ainosuke conducts all his business?” Hiromi whispers, wondering aloud.<br>
+<em>Wait. Why am I surprised?</em><br />
 
-Wait. Why am I surprised?<br>
+He sees Ainosuke first, and his breath catches in his throat.<br />
 
-He sees Ainosuke first, and his breath catches in his throat.<br>
+If he thought Ainosuke was handsome before, Hiromi can’t deny he looks almost <em>ethereal</em> illuminated by the full moon overhead. He’s unable to stop his expression from softening—to keep himself from smiling.<br />
 
-If he thought Ainosuke was handsome before, Hiromi can’t deny he looks almost ethereal illuminated by the full moon overhead. He’s unable to stop his expression from softening--to keep himself from smiling.<br>
+Ainosuke waves, beckoning him to sit down. Hiromi obeys.<br />
 
-Ainosuke waves, beckoning him to sit down. Hiromi obeys.<br>
+There’s a click of a lighter. Suddenly, a candle in the middle of the table is lit, illuminating the figure of a third person.<br />
 
-There’s a click of a lighter. Suddenly, a candle in the middle of the table is lit, illuminating the figure of a third person.<br>
+<em>Tadashi?</em><br />
 
-Tadashi?<br>
+The first puzzle piece clicks into place.<br />
 
-The first puzzle piece clicks into place.<br>
+<em>What did he say about his work?</em><br />
 
-What did he say about his work?<br>
+<em>A secretary of an estate, correct?</em><br />
 
-A secretary of an estate, correct?<br>
+The roses are on brand for Ainosuke, as is scheduling a private room, but is this merely how he conducts business? Hiromi thinks about the fanciness of the hotel, the balcony. His eyes shift over the edge.<br />
 
-The roses are on brand for Ainosuke, as is scheduling a private room, but is this merely how he conducts business? Hiromi thinks about the fanciness of the hotel, the balcony. His eyes shift over the edge.<br>
+<em>An oceanic view… A dinner under the stars…</em><br />
 
-An oceanic view… A dinner under the stars...<br>
+<em>The chocolates? The card?</em><br />
 
-The chocolates? The card?<br>
+An answer lies right at the tip of his tongue, enclosed in a thin wrapper of mystery. His eyes catch the vase in the middle of the table.<br />
 
-An answer lies right at the tip of his tongue, enclosed in a thin wrapper of mystery. His eyes catch the vase in the middle of the table.<br>
+The vase itself is midnight purple, patterned with painted white stars. It’s nothing too special, but the flowers? <br />
 
-The vase itself is midnight purple, patterned with painted white stars. It’s nothing too special, but the flowers? <br>
+<em>White sunflowers. Pink roses and camellias. Three each.<br />
 
-White sunflowers. Pink roses and camellias. Three each.<br>
+<em>Isn’t it the same arrangement I chose for Tadashi?</em><br />
 
-Isn’t it the same arrangement I chose for Tadashi?<br>
+The final puzzle piece clicks into place almost suddenly.<br />
 
-The final puzzle piece clicks into place almost suddenly.<br>
+<em>Oh. This has <strong>nothing</strong> to do with business, does it?</em><br />
 
-Oh. This has nothing to do with business, does it?<br>
+Here waiting for him is an insanely hot, rich politician and his—also hot—secretary. <em>His own confession arrangement</em>, originally meant for the secretary, sits in the middle of the table.<br />
 
-Here waiting for him is an insanely hot, rich politician and his--also hot--secretary. His own confession arrangement, originally meant for the secretary, sits in the middle of the table.<br>
+Hiromi is being <em>courted</em> by the rich heir and his secretary.<br />
 
-Hiromi is being courted by the rich heir and his secretary.<br>
+<em>God.</em><br />
 
-God.<br>
+Hiromi resists the urge to cover his face as it begins to redden.<br />
 
-Hiromi resists the urge to cover his face as it begins to redden.<br>
+<em>I really <strong>have</strong> become the protagonist of a romance manga…</em><br />
 
-I really have become the protagonist of a romance manga…<br>
+~<br />
 
-~<br>
+Ainosuke’s lips curl into a pleased smirk. He’s got Tadashi and Hiromi wrapped around his pinky finger now.<br />
 
-Ainosuke’s lips curl into a pleased smirk. He’s got Tadashi and Hiromi wrapped around his pinky finger now.<br>
+He winks. “I’m so glad you could make it, <em>flower boy.</em>”<br />
 
-He winks. “I’m so glad you could make it, flower boy.”
-
-`.split("<br />"),
+ 
+      `.split("<br />"),
     collabArt: artList[3],
   },
   {
@@ -698,7 +698,8 @@ It's okay. They’ve got time.<br />
     title: "Switch Stance",
     author: amuk,
     ship: "Adam/Joe/Cherry",
-    paragraphs: `<strong>i.</strong><br />
+    paragraphs: `
+<strong>i.</strong><br />
 At sixteen, Kaoru thought he knew his home like the back of his hand. He’d grown up here, after all, had spent most of his youth navigating its streets. Yet Ainosuke seemed determined to prove him wrong. In the year since they’d first met (and fought), his mysterious friend had taken him to every nook and cranny in town.<br />
 It was amazing just how many places you could skate in, if you were determined. Like, right now, he was sitting in a brand-new development area, a couple of acres filled with half-finished model homes and empty pools. Cranes and trucks dotted the landscape and bars of metal jutted out precariously in piles. All in all, a dangerous place to explore in the day.<br />
 And an exciting one to navigate at night.<br />
@@ -751,15 +752,15 @@ Kojiro jerked his head away. It was too early in dinner to have those thoughts. 
 “We have enough of those.” Kaoru gently swirled his wine. “I probably shouldn’t drink this.”<br />
 “Why?” Even as he asked, Kojiro could guess the answer.<br />
 “I’m the only one who gets drunk.” Kaoru scowled. “You can really hold your liquor.”<br />
-Bingo. Kojiro chuckled mirthlessly. “I have to be.”<br />
+<em>Bingo</em>. Kojiro chuckled mirthlessly. “I have to be.”<br />
 “Have to?” Kaoru raised a brow before a look of understanding crossed his face. “Your girlfriends.”<br />
 <em>No, it’s the only way you’ll actually talk</em>. Just what would Kaoru’s expression be if Kojiro had said that? Surprised? Irritated? There’d definitely be a dose of denial.<br />
 “Why, jealous?” Kojiro drawled instead.<br />
 Kaoru snorted. “As if.”<br />
-The answer was never yes, no matter how many times they’d done this song and dance. Kojiro gulped his wine carelessly. In high school, love was easy. Even the awkward intimacy of their youth had been as natural as breathing, the way they had explored each other without fear. As an adult, it felt like he was walking on broken glass.<br />
+The answer was never <em>yes</em>, no matter how many times they’d done this song and dance. Kojiro gulped his wine carelessly. In high school, love was easy. Even the awkward intimacy of their youth had been as natural as breathing, the way they had explored each other without fear. As an adult, it felt like he was walking on broken glass.<br />
 “I’ve got a reputation to maintain,” Kojiro finally replied, trying to keep his tone light.<br />
 “A worthless one.” Kaoru set down his glass and glanced out the window. It was a moonless night, the streetlights just barely illuminating the nearby shops. The odd car sped down the street, its headlights glowing like beacons in the dark. Quietly, he murmured, “He’s back.”<br />
-There was no need to ask who. There was only ever one he, only ever one reason that Kaoru came here to drink. Kojiro contemplated that he didn’t have enough wine to handle this and poured himself another glass. “I didn’t hear anything.”<br />
+There was no need to ask who. There was only ever one <em>he</em>, only ever one reason that Kaoru came here to drink. Kojiro contemplated that he didn’t have enough wine to handle this and poured himself another glass. “I didn’t hear anything.”<br />
 “He’s not in the city. He’s just back in Japan.” There was rage and there was grief, and Kaoru always seemed to teeter between the two, as though he hadn’t quite figured out his own feelings. Maybe he hadn’t. As smart as he was, Kaoru was an idiot when it came to himself.<br />
 Not that he was any better. Kojiro had mostly sorted out his feelings to his old flame, but that didn’t stop the love and hate coiling in his gut at the news.<br />
 In high school, they had been fearless. Growing up meant learning what it meant to be scared.<br />
@@ -768,7 +769,7 @@ Even now, it was easy to feel Ainosuke’s space, even in these quiet dinners be
 Ainosuke’s fingerprints were everywhere.<br />
 And Kojiro was tired of it. “Does it matter?”<br />
 Kaoru bristled. “What do you mean <em>does it matter—</em>”<br />
-“He’s not Ainosuke,” Kojiro interrupted, the our left unsaid. At this point, he couldn’t even imagine kissing the politician their ex had become, let alone loving him. “He was never that cruel.”<br />
+“He’s not Ainosuke,” Kojiro interrupted, the <em>our</em> left unsaid. At this point, he couldn’t even imagine kissing the politician their ex had become, let alone loving him. “He was never that cruel.”<br />
 “Maybe he was hiding it,” Kaoru spat out.<br />
 It’d be easier if he had, if everything they’d known had been a lie.<br />
 It would be easier but despite it all, Kojiro still treasured those teenage nights, the sloppy kisses and competitive smirks and moonlight races. “I hope he wasn’t.”<br />
@@ -817,7 +818,7 @@ Even Tadashi was giving him a look. Ainosuke closed his eyes. This wasn’t what
 Surprised, Ainosuke opened his eyes. “He did?”<br />
 “What, thought it was me?” Kojiro chuckled mirthlessly, his expression bitter. When Ainosuke didn’t say anything, he shrugged. “He wanted to change. Don’t know why he thought this would help. Did you ever miss us after you left?”<br />
 “No.” It wasn’t a lie. It wasn’t the truth. Ainosuke had chipped away at himself until he couldn’t remember what longing felt like, what missing meant.<br />
-Kojiro deflated, disappointed. Ainosuke didn’t know he could still disappoint someone. “Too bad. He…we missed you. I thought…well, I guess things changed. You know, Kaoru likes bitter drinks these days and I prefer sweet. And you…you aren’t someone who cares about any of this.”<br />
+Kojiro deflated, disappointed. Ainosuke didn’t know he could still disappoint someone. “Too bad. He…<em>we</em> missed you. I thought…well, I guess things changed. You know, Kaoru likes bitter drinks these days and I prefer sweet. And you…you aren’t someone who cares about any of this.”<br />
 Ainosuke could only stare. Kojiro had never been this direct and he didn’t know what to do with the exhausted look Kojiro gave him. It was filled with regret. It was filled with sorrow.<br />
 It was filled with the tail end of love.<br />
 Instinctively, Ainosuke knew that if he did nothing, the next time Kojiro looked at him, there would be nothing. They would be acquaintances at best. There would be a distance he could never cross.<br />
@@ -826,19 +827,20 @@ His throat burned at the thought. “I’m not that boy anymore.”<br />
 As though on cue, Kaoru opened the door, his expression carefully blank as he returned to his seat. “You have a minute and then I’m gone.”<br />
 Tadashi’s eyes were on him. Ainosuke breathed in.<br />
 For a long time, he had thought he hadn’t known love. That he had never known love. But that had been a lie. He had known it in Tadashi’s patient hands, in Kaoru’s timid kisses, in Kojiro’s kind touches. Ainosuke had always known love, he had just lost it.<br />
-No, not lost. He had tossed it away. The only fortunate thing was that Tadashi was still beside him. That Tadashi would always be beside him.<br />
+No, not <em>lost</em>. He had tossed it away. The only fortunate thing was that Tadashi was still beside him. That Tadashi would always be beside him.<br />
 If he didn’t do anything, he’d be throwing away the pair in front of him.<br />
 Ainosuke breathed out. He hadn’t come here to lash out. No, just like Kaoru, he had come here to change something.<br />
 He hadn’t known what until this moment.<br />
 “Let’s skate,” Ainosuke stated simply.<br />
 Kojiro stared at him, dumbfounded. “What?”<br />
-“I’m not racing you again.” Kaoru snorted dismissively. He didn’t hesitate before standing “I’m done.”<br />
+“I’m not racing you again.” Kaoru snorted dismissively. He didn’t hesitate before standing. “I’m done.”<br />
 “I didn’t say race.” Ainosuke smiled, resisting the urge to tease, to taunt. That came easily to him but what was needed now was sincerity. And that was something he had long struggled with.  “Don’t you want to play in an Olympic-sized pool? I happen to know where you can find one.”<br />
 “Then…” Kojiro frowned, his brow furrowing as he tried to find a hidden meaning.<br />
 Unlike him, Kaoru didn’t mince his words. His voice was cold as he asked, “What are you really after?”<br />
-You. Ainosuke was a greedy man. If they were tired of following, then he’d chase after them. If they were ready to let go, he’d grasp twice as hard. It wasn’t enough to just have Tadashi. It wasn’t enough to know of love and let it go. He had never been that selfless.<br />
+<em>You</em>. Ainosuke was a greedy man. If they were tired of following, then he’d chase after them. If they were ready to let go, he’d grasp twice as hard. It wasn’t enough to just have Tadashi. It wasn’t enough to know of love and let it go. He had never been that selfless.<br />
 And he didn’t know if he could handle them treating him like a stranger, like he meant nothing.<br />
-But he’d pushed too far and now was the time for a slow courtship. Ainosuke winked. “Nothing. What, can’t a man want to see his old flames?”
+But he’d pushed too far and now was the time for a slow courtship. Ainosuke winked. “Nothing. What, can’t a man want to see his old flames?”<br />
+
 `.split("<br />"),
   },
   {
