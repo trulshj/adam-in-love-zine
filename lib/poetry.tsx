@@ -11,7 +11,7 @@ export const poetryList: PoetryType[] = [
   {
     title: "Cat & Mouse",
     author: toxicTraitor,
-    ship: "AdamKiriko",
+    ship: "Adam/Kiriko",
     poem: [
       [
         "The thrill of the hunt",
@@ -48,7 +48,7 @@ export const poetryList: PoetryType[] = [
   {
     title: "Roses & Teeth",
     author: toxicTraitor,
-    ship: "AdamLanga",
+    ship: "Adam/Langa",
     poem: [
       [
         "You came and sang to me,",
