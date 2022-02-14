@@ -133,7 +133,7 @@ const queenclaw: AuthorType = {
   tumblr: "https://queenclaw-z.tumblr.com/",
 };
 const vanyaInstance: AuthorType = {
-  name: "Alex",
+  name: "Vanya_Instance",
   ao3: "https://archiveofourown.org/users/Vanya_Instance",
 };
 const thechaoscryptid: AuthorType = {

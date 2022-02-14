@@ -849,7 +849,7 @@ But he’d pushed too far and now was the time for a slow courtship. Ainosuke wi
     author: queenie,
     ship: "Adam/Tadashi",
     paragraphs:
-      `Friday night, or rather Saturday in the early morning. A man, gorgeous, handsome, comes back to his restaurant with a girl in each arms. On the counter, an envelope waits. Inside resides an invitation in the form of a crimson heart, surrounded by black roses.<br />a
+      `Friday night, or rather Saturday in the early morning. A man, gorgeous, handsome, comes back to his restaurant with a girl in each arms. On the counter, an envelope waits. Inside resides an invitation in the form of a crimson heart, surrounded by black roses.<br />
 
 ‘ADAM is getting married,’ the card reads.<br />
 
@@ -1106,7 +1106,7 @@ Tadashi doesn’t even have the time to catch his breath that Ainosuke jumps int
 
 Before they are joined by their friends, Tadashi sends his husband an unamused glance. “Was this little improvisation really necessary?”<br />
 
-AInosuke takes off his mask before he speaks. “We had to cross the finish line with you holding me bridal style, Tadashi. It’s the tradition.”<br />
+Ainosuke takes off his mask before he speaks. “We had to cross the finish line with you holding me bridal style, Tadashi. It’s the tradition.”<br />
 
 Tadashi rolls his eyes, but despite the annoyance, and enthused by the crowd’s applause, Tadashi kisses Ainosuke for their first married man kiss.<br />
 
@@ -2042,11 +2042,11 @@ But it appeared her solidarity watch came to an end and the Shindo household was
 ‘I have prepared some coffee for you Kamata-san,’ Tadashi said, clearly feeling no need for a preamble.<br />
 She looked at the coffee he held in his hand. It wasn’t the coffee she was accustomed to, that much she could tell, half-cold coffee in paper cups, cheap precinct coffee that was more unrecognisable sludge than fine beans. She could smell the rich aroma of the coffee through the lowered window. Suspicious she might have been, but Kiriko had accepted the coffee before she had realised it.<br />
 ‘Thank-you,’ she murmured, only to find that Tadashi had already turned on his heel and left. She furrowed her brow.<br />
-<em>Was that all? They weren’t asking me to leave?</em>
+<em>Was that all? They weren’t asking me to leave?</em><br />
 She waited until Tadashi was out of sight before she took her first tentative sip. Infuriatingly, it was delicious, and turning on the overhead light, much to her aggravation, she found that her coffee even had a little heart powdered in chocolate on the top. She slurped it up, taking a little vindictive glee in the destruction of the carefully created heart.<br />
 When it grew late, even with the caffeine in her system Kiriko was starting to feel the first pangs of exhaustion, and she knew she could remain no longer. She didn’t drive when excessively tired and whilst it was always tempting to pull an all-nighter, keeping her eyes firmly on the man she couldn’t trust as far as she could throw him, she was expected to work the next morning and she was sensible enough to know she couldn’t. She climbed out of the car, the coffee cup held confusedly in her hand, unsure what to do with it. Had it been a plate, perhaps she could have washed it and given it back on a later date. A coffee cup, she was not so sure, but it appeared that the Shindo household was more prepared than her as a maid soon scurried into view, collecting the cup with a dignified curtsy. Perplexed, Kiriko drove back to the precinct to drop off the car. All in all, her evening had been unremarkable but in the end, after months of late night stake outs, why was it that she felt like she was the one being watched?<br />
 Driving back to her apartment, now in her own car, Kiriko wondered why Ainosuke would have ordered coffee to be brought out to her.<br />
-<em>Was it a threat? A bribe I shouldn’t have accepted? Or worse, was it a continuation of that absolutely repulsive flirtation that he seems to be so fond of?</em>
+<em>Was it a threat? A bribe I shouldn’t have accepted? Or worse, was it a continuation of that absolutely repulsive flirtation that he seems to be so fond of?</em><br />
 She knew it had to have been his order. Tadashi didn’t do anything unprompted. He was often a little more than a puppet to his master’s whims.<br />
 It was simply another mystery to add to the hundreds that she needed to unravel about Ainosuke Shindo.<br />
 -<br />
@@ -2060,7 +2060,7 @@ Eyes she knew to be a fiery red, were on her. Even with the binoculars, it was n
 She had long since wondered why, in her dreams, she saw hypnotising red eyes.<br />
 She wondered why she thought so often to that afternoon when she had met Ainosuke at the hotel. He had been there for a conference and had flirted with her so easily it had made her shiver like she was the fly in his spider’s web.<br />
 She swallowed down what might very well have been an emotion she wasn’t ready to progress.<br />
-<em>It’s dedication and nothing more, she thought firmly. I need to prove his corruption, to lock him away from me- no, from the public- forever.</em>
+<em>It’s dedication and nothing more, she thought firmly. I need to prove his corruption, to lock him away from me- no, from the public- forever.</em><br />
 Kiriko’s instinct was never wrong. That was why she was so drawn to him. That was why his eyes, mocking and cunning, made her stern heart flutter.<br />
 She dampened the thought, compartmentalising like a champion avoider, but every evening it grew harder and harder to do. He was worlds away in his opulent home, she in a car with no working heating and the smell of cheap aftershave from whoever had checked the car out last. This distance was good.<br />
 She needed to keep her distance.<br />
