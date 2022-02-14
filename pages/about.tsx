@@ -9,6 +9,7 @@ const About: NextPage = () => {
   const buttons: buttonType[] = [
     { href: "/about/faq", text: "FAQ", color: "white" },
     { href: "/about/mods", text: "Mods", color: "white" },
+    { href: "/about/contributors", text: "Contributors", color: "white" },
   ];
   return (
     <div className={styles.container}>

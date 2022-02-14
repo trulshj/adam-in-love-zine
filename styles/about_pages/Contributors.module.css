@@ -1,0 +1,12 @@
+.container {
+  min-height: 90%;
+  height: 1px;
+  overflow-y: scroll;
+  width: 100%;
+}
+
+@media (max-width: 800px) {
+  .container > h1 {
+    text-align: center;
+  }
+}
