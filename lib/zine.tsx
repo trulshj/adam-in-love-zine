@@ -56,7 +56,7 @@ export const zineList: ZineItem[] = [
   proseZineItems[11], // tweilightplants fic + bad art
   proseZineItems[14], // thechaoscryptid fic
   poetryZineItems[3], // poetry 4
-  artZineItems[15], // thylezhik non-collab art
+  artZineItems[9], // thylezhik non-collab art
   proseZineItems[5], // queenie + elianthos collab
   artZineItems[19], // last page cover
 ];
