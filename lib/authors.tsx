@@ -41,7 +41,7 @@ const grandTaco: AuthorType = {
 
 const miragePrince: AuthorType = {
   name: "Prince",
-  twitter: "https://twitter.com/Mirage_PrinceTwitter",
+  twitter: "https://twitter.com/Mirage_Prince",
 };
 
 const burns: AuthorType = {
