@@ -36,7 +36,7 @@ export const zineList: ZineItem[] = [
   artZineItems[2], // lu.doscope non-collab art
   poetryZineItems[0], // poetry 1
   proseZineItems[3], // tulip fic
-  artZineItems[4], // kamedori comic art TODO: Add the spread thing
+  artZineItems[4], // kamedori comic art
   artZineItems[11], // burns non-collab art
   proseZineItems[12], // queenclaw fic
   proseZineItems[10], // that-lizart fic + lu.doscope art
