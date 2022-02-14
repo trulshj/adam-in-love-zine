@@ -44,6 +44,7 @@ export default function ProseItem({ prose }: ProseItemProps) {
         {!prose.collabArt ? null : (
           <div className={styles.collabArt}>
             <ArtItem art={prose.collabArt} />
+            <Author author={prose.collabArt.author} collabArt={true} />
           </div>
         )}
       </div>
