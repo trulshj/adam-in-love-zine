@@ -98,7 +98,7 @@ Still, he told himself, this isn’t an absolute loss. There has been no punishm
     id: 2,
     title: "There's Just Something About You",
     author: smartZelda,
-    ship: "Tadaaidow",
+    ship: "Adam/Tadashi/Shadow",
     paragraphs: `
      It isn’t a week of work without it for Hiromi—a period of stillness, devoid of the proof of life aside from flowers and Hiromi’s own slowed breathing. Flower shops are popular enough, sure—there’s always a couple, a secret admirer, someone with a sick friend, a wedding order, or just someone looking to liven up their house, after all. There’s always more traffic around holidays, it’s true, yet the period of deadness feels inescapable.<br />
 
