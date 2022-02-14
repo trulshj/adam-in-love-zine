@@ -43,7 +43,7 @@ export const artList: ArtType[] = [
   {
     id: 0,
     author: lillachan,
-    ship: "Front Cover",
+    ship: "Adam/Everyone",
     image: frontCover,
   },
   {
@@ -157,7 +157,7 @@ export const artList: ArtType[] = [
   {
     id: 19,
     author: lillachan,
-    ship: "Back Cover",
+    ship: "Adam Only",
     image: backCover,
   },
 ];
