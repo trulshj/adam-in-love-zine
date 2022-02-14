@@ -9,7 +9,7 @@ const ZineNav: NextPage = () => {
   const buttons: buttonType[] = [
     { href: "/zine/full", text: "Full Zine", color: "white" },
     { href: "/zine/art", text: "Art Only", color: "white" },
-    { href: "/zine/fics", text: "Fics Only", color: "white" },
+    { href: "/zine/fics", text: "Writing Only", color: "white" },
   ];
   return (
     <div className={styles.container}>
