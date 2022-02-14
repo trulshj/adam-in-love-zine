@@ -12,44 +12,44 @@ const lillachan: AuthorType = {
 };
 
 const bad: AuthorType = {
-  name: "bad",
+  name: "BAD BAD TIME",
   twitter: "http://twitter.com/badbadtime",
 };
 
 const ludoscope: AuthorType = {
-  name: "Lu.doscope",
+  name: "Lu",
 };
 
 const kamedori: AuthorType = {
-  name: "kame-dori",
+  name: "Kame-dori",
   tumblr: "https://kame-dori.tumblr.com/",
   instagram: "https://www.instagram.com/kame.dori/",
   twitter: "https://twitter.com/k456d0",
 };
 
 const tyulezhik: AuthorType = {
-  name: "tyulezhik",
+  name: "Tyulezhik",
   twitter: "https://twitter.com/tyulezhiktyulezhik",
   instagram: "https://www.instagram.com/tyulezhik/",
 };
 
 const grandTaco: AuthorType = {
-  name: "GRANDTACOSUPREME",
+  name: "GrandTaco",
   twitter: "https://twitter.com/grandtacosuprem",
 };
 
 const miragePrince: AuthorType = {
-  name: "MiragePrince",
+  name: "Prince",
   twitter: "https://twitter.com/Mirage_PrinceTwitter",
 };
 
 const burns: AuthorType = {
-  name: "BURNS",
+  name: "KiingFluffybuns",
   twitter: "https://twitter.com/kiingfluffybuns",
 };
 
 const crumbs: AuthorType = {
-  name: "crumbs",
+  name: "artscrumbs",
   instagram: "https://www.instagram.com/arts.crumbs/",
   twitter: "https://twitter.com/artscrumbs",
 };
@@ -77,7 +77,7 @@ const smartZelda: AuthorType = {
   tumblr: "https://smartzelda.tumblr.com/",
 };
 const rekil2s: AuthorType = {
-  name: "[Reki-L2S]",
+  name: "Reki-L2S",
   twitter: "https://twitter.com/Morioh_ChoRadio",
   tumblr: "https://crimsonherbarium.tumblr.com/",
 };
@@ -89,7 +89,7 @@ const fishnobi: AuthorType = {
   ao3: "https://archiveofourown.org/users/tuupo84/works",
 };
 const amuk: AuthorType = {
-  name: "Amuk",
+  name: "amuk",
   twitter: "https://twitter.com/amukWrites",
   ao3: "https://archiveofourown.org/users/amuk",
 };
@@ -121,7 +121,7 @@ const lizard: AuthorType = {
   ao3: "https://archiveofourown.org/users/ThatLizard/pseuds/ThatLizard",
 };
 const twileighplants: AuthorType = {
-  name: "Twileighplants",
+  name: "twileighplants",
   twitter: "http://twitter.com/twileighplants",
   tumblr: "https://twileighplants.tumblr.com/",
   ao3: "https://archiveofourown.org/users/twileighplants/pseuds/twileighplants",
@@ -132,7 +132,7 @@ const queenclaw: AuthorType = {
   tumblr: "https://queenclaw-z.tumblr.com/",
 };
 const vanyaInstance: AuthorType = {
-  name: "Vanya_Instance",
+  name: "Alex",
   ao3: "https://archiveofourown.org/users/Vanya_Instance",
 };
 const thechaoscryptid: AuthorType = {
