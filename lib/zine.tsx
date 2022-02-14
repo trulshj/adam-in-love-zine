@@ -25,7 +25,6 @@ const poetryZineItems = poetryList.map(
   (x) => ({ type: ZineItemType.Poetry, content: x } as ZineItem)
 );
 
-// TODO: Order zine items correctly
 export const zineList: ZineItem[] = [
   artZineItems[0], // lillachan cover front
   artZineItems[7], // grandtaco art (spread)
