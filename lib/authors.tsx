@@ -143,7 +143,7 @@ const thechaoscryptid: AuthorType = {
 };
 const ness: AuthorType = {
   name: "Ness",
-  ao3: "https://archiveofourown.org/users/tellmewhatyousee/pseuds/tellmewhatyousee",
+  ao3: "https://archiveofourown.org/users/tellmewhatyousee",
   twitter: "https://twitter.com/matadorofheart",
 };
 const toxicTraitor: AuthorType = {
