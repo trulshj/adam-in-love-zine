@@ -4,6 +4,7 @@ export interface AuthorType {
   instagram?: string;
   ao3?: string;
   tumblr?: string;
+  github?: string;
 }
 
 const lillachan: AuthorType = {

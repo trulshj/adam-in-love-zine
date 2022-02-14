@@ -218,6 +218,17 @@ export const contributors: Contributor[] = [
     icon: "",
     position: "Artist",
   },
+  {
+    author: {
+      name: "t",
+      github: "https://github.com/trulshj",
+      twitter: "https://twitter.com/tallteacup",
+    },
+    position: "Web Dev",
+    introduction:
+      "Powered by coffee and tea! If you see something wrong with the website then @ me <3",
+    icon: "",
+  },
 ];
 
 export default function ContributorItem({
@@ -259,6 +270,14 @@ export default function ContributorItem({
             |{" "}
             <a href={author.instagram} target="_blank" rel="noreferrer">
               instagram
+            </a>
+          </>
+        )}
+        {!author.github ? null : (
+          <>
+            |{" "}
+            <a href={author.github} target="_blank" rel="noreferrer">
+              github
             </a>
           </>
         )}
