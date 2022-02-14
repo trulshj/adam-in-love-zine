@@ -13,6 +13,7 @@ import { ZineItemType, zineList } from "../../lib/zine";
 import { PoetryType } from "../../lib/poetry";
 import { ProseType } from "../../lib/prose";
 import { ArtType } from "../../lib/art";
+import Author from "../../components/Author";
 
 const FullZine: NextPage = () => {
   const [itemIndex, setItemIndex] = useState(0);
@@ -20,7 +21,13 @@ const FullZine: NextPage = () => {
   return (
     <div className={styles.container}>
       {zineList[itemIndex].type == ZineItemType.Art ? (
-        <ArtItem art={zineList[itemIndex].content as ArtType} />
+        <>
+          <Author
+            author={zineList[itemIndex].content.author}
+            ship={zineList[itemIndex].content.ship}
+          />
+          <ArtItem art={zineList[itemIndex].content as ArtType} />
+        </>
       ) : zineList[itemIndex].type == ZineItemType.Poetry ? (
         <PoemItem poem={zineList[itemIndex].content as PoetryType} />
       ) : (

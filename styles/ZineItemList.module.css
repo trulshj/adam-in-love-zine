@@ -1,12 +1,12 @@
 .listContainer {
   display: flex;
   flex-direction: column;
-  gap: 0.5rem;
+  gap: 1rem;
   width: 100%;
   text-align: center;
   align-items: center;
   overflow-y: scroll;
-  max-height: 90vh;
+  max-height: 75vh;
 }
 
 .listContainer > h2 {
@@ -25,4 +25,7 @@
 .listItem > span {
   font-weight: lighter;
   font-size: smaller;
+}
+
+@media (max-width: 800px) {
 }

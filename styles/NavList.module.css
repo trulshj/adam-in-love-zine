@@ -15,7 +15,7 @@
   right: 0;
   margin: auto;
   border: none;
-  font-size: 1.5rem;
+  font-size: 1.2rem;
   border-radius: 1rem;
   padding: 0.5rem;
   display: none;
@@ -49,7 +49,6 @@
   }
 
   .navList {
-    padding-top: 1rem;
     width: min-content;
     margin: auto;
     gap: 1rem;
@@ -68,6 +67,6 @@
 
   .inactiveButton {
     position: absolute;
-    bottom: -505px;
+    bottom: -500px;
   }
 }

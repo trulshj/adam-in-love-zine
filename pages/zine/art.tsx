@@ -7,6 +7,7 @@ import listStyles from "../../styles/ZineItemList.module.css";
 import { ArtType } from "../../lib/art";
 import { ZineItemType, zineList } from "../../lib/zine";
 import ArtItem from "../../components/zine-items/Art";
+import Author from "../../components/Author";
 
 const ArtOnly: NextPage = () => {
   const [showingItem, setShowingItem] = useState(false);
@@ -33,7 +34,7 @@ const ArtOnly: NextPage = () => {
             onClick={() => showItem(idx)}
             tabIndex={0}
           >
-            {item.content.author}{" "}
+            {item.content.author.name}{" "}
             {item.content.ship != "" ? (
               <span>- {item.content.ship}</span>
             ) : null}
@@ -43,7 +44,10 @@ const ArtOnly: NextPage = () => {
     </div>
   ) : (
     <div className={styles.artContainer}>
-      <span>@{zineList[itemIndex].content.author}</span>
+      <Author
+        author={zineList[itemIndex].content.author}
+        ship={zineList[itemIndex].content.ship}
+      />
       <ArtItem art={zineList[itemIndex].content as ArtType} />
       <a className={listStyles.listItem} onClick={() => hideItem()}>
         &lt; Back to list

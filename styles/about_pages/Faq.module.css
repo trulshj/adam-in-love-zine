@@ -1,0 +1,19 @@
+.container {
+  max-height: 90vh;
+  overflow-y: scroll;
+  font-size: smaller;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 2rem;
+}
+
+.container > h1 {
+  text-align: center;
+}
+
+@media (max-width: 800px) {
+  .container {
+    max-height: 70vh;
+  }
+}

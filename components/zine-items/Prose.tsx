@@ -3,7 +3,9 @@ import EmailFic from "../../components/EmailFic";
 
 import { ProseType } from "../../lib/prose";
 import ArtItem from "./Art";
-import { MutableRefObject, ReactNode, useEffect, useRef } from "react";
+import Author from "../Author";
+
+import { useEffect, useRef } from "react";
 
 export interface ProseItemProps {
   prose: ProseType;
@@ -21,18 +23,24 @@ export default function ProseItem({ prose }: ProseItemProps) {
       <div className={styles.proseTitle}>
         <h2>{prose.title}</h2>
         <div>
-          <h4>By: {prose.author}</h4>
-          <h4>Ship: {prose.ship}</h4>
+          <Author author={prose.author} ship={prose.ship} />
         </div>
       </div>
       <div className={styles.prose}>
         {!prose.email ? (
           prose.paragraphs?.map((paragraph, idx) => (
-            <p key={idx} dangerouslySetInnerHTML={{ __html: paragraph }}></p>
+            <p
+              className={
+                paragraph.trim().length == 1 ? styles.centered : undefined
+              }
+              key={idx}
+              dangerouslySetInnerHTML={{ __html: paragraph }}
+            ></p>
           ))
         ) : (
           <EmailFic />
         )}
+        {console.log(prose.paragraphs)}
         {!prose.collabArt ? null : (
           <div className={styles.collabArt}>
             <ArtItem art={prose.collabArt} />

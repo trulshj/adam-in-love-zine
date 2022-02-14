@@ -1,0 +1,12 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+.question {
+  color: var(--text-bright);
+  margin: 0;
+}
+.answer {
+  margin: 0;
+}

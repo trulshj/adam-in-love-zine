@@ -1,6 +1,8 @@
+import { AuthorType, toxicTraitor, unrivalling } from "./authors";
+
 export interface PoetryType {
   title: string;
-  author: string;
+  author: AuthorType;
   ship: string;
   poem: string[][];
 }
@@ -8,7 +10,7 @@ export interface PoetryType {
 export const poetryList: PoetryType[] = [
   {
     title: "Cat & Mouse",
-    author: "ToxicTraitor",
+    author: toxicTraitor,
     ship: "AdamKiriko",
     poem: [
       [
@@ -45,7 +47,7 @@ export const poetryList: PoetryType[] = [
   },
   {
     title: "Roses & Teeth",
-    author: "ToxicTraitor",
+    author: toxicTraitor,
     ship: "AdamLanga",
     poem: [
       [
@@ -82,7 +84,7 @@ export const poetryList: PoetryType[] = [
   },
   {
     title: "Written in Ink",
-    author: "Unrivalling",
+    author: unrivalling,
     ship: "Adam/Cherry",
     poem: [
       [
@@ -125,7 +127,7 @@ export const poetryList: PoetryType[] = [
   },
   {
     title: "Made of Wax",
-    author: "Unrivalling",
+    author: unrivalling,
     ship: "Adam/Tadashi",
     poem: [
       [

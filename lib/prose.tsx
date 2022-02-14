@@ -1,9 +1,28 @@
 import { ArtType, artList } from "./art";
+import {
+  amuk,
+  AuthorType,
+  delacroiix,
+  discokonomi,
+  fishnobi,
+  keitora,
+  lizard,
+  ness,
+  queenclaw,
+  queenie,
+  rekil2s,
+  riyeRose,
+  singeiji,
+  smartZelda,
+  thechaoscryptid,
+  twileighplants,
+  vanyaInstance,
+} from "./authors";
 
 export interface ProseType {
   id: number;
   title: string;
-  author: string;
+  author: AuthorType;
   ship: string;
   paragraphs: string[];
   collabArt?: ArtType;
@@ -14,7 +33,7 @@ export const proseList: ProseType[] = [
   {
     id: 1,
     title: "LOVED WITH AN APPLE",
-    author: "Delacroiix",
+    author: delacroiix,
     ship: "Adam/Tadashi",
     paragraphs:
       ` The world was black and white before it became grey for Ainosuke. The proper and the unseemly. The allowed and the forbidden. Family and strangers. Himself and the rest of the world. Black, proper, allowed, and family were good for him. White, unseemly, forbidden, strangers, and the rest of the world were not. There was a circle traced around the boy. Everything would be alright as long as he stayed between its bounds, like a secret left in the hands of his loving aunts. The very same hands that traced those bounds.<br>
@@ -78,7 +97,7 @@ Still, he told himself, this isn’t an absolute loss. There has been no punishm
   {
     id: 2,
     title: "There's Just Something About You",
-    author: "SmartZelda",
+    author: smartZelda,
     ship: "Tadaaidow",
     paragraphs:
       `It isn’t a week of work without it for Hiromi--a period of stillness, devoid of the proof of life aside from flowers and Hiromi’s own slowed breathing. Flower shops are popular enough, sure--there’s always a couple, a secret admirer, someone with a sick friend, a wedding order, or just someone looking to liven up their house, after all. There’s always more traffic around holidays, it’s true, yet the period of deadness feels inescapable.<br />
@@ -542,7 +561,7 @@ He winks. “I’m so glad you could make it, flower boy.”
   {
     id: 3,
     title: "GMT-5, GMT+9",
-    author: "[Reki-L2S]",
+    author: rekil2s,
     ship: "teen!Ainosuke/Tadashi",
     paragraphs: [],
     email: true,
@@ -551,7 +570,7 @@ He winks. “I’m so glad you could make it, flower boy.”
   {
     id: 4,
     title: "Hey Moon",
-    author: "fishnobi",
+    author: fishnobi,
     ship: "Adam/Joe",
     paragraphs:
       `Ainosuke knows he’s not easy to get along with. He’s totally okay with that.<br />
@@ -560,7 +579,7 @@ He’s snotty, he’s rude, he’s stubborn, and spoiled; he acts out when thing
 
 He’s the definition of a rich, spoiled brat, and he knows it. And he’s absolutely okay with that.<br />
 
-Of course, he is aware of the way he is perceived. It’s funny, because he also knows he doesn’t act like someone with self-awareness. A young boy with the ability to reflect on how he appears couldn’t possibly be so annoying and stupid as this, right?<br />
+<br>Of course, he is aware of the way he is perceived. It’s funny, because he also knows he doesn’t act like someone with self-awareness. A young boy with the ability to reflect on how he appears couldn’t possibly be so annoying and stupid as this, right?<br />
 
 Maybe Ainosuke is an exception to the rule; maybe he’s that one odd out from the rest of the rational population. He’s got delusions of grandeur enough to know it - or maybe it's self-deprecation. He doesn’t know. <br />
 
@@ -677,7 +696,7 @@ It's okay. They’ve got time.<br />
   {
     id: 5,
     title: "Switch Stance",
-    author: "Amuk",
+    author: amuk,
     ship: "Adam/Joe/Cherry",
     paragraphs: `<strong>i.</strong><br />
 At sixteen, Kaoru thought he knew his home like the back of his hand. He’d grown up here, after all, had spent most of his youth navigating its streets. Yet Ainosuke seemed determined to prove him wrong. In the year since they’d first met (and fought), his mysterious friend had taken him to every nook and cranny in town.<br />
@@ -825,7 +844,7 @@ But he’d pushed too far and now was the time for a slow courtship. Ainosuke wi
   {
     id: 6,
     title: "'ADAM is getting married'",
-    author: "Queenie",
+    author: queenie,
     ship: "Adam/Tadashi",
     paragraphs:
       `Friday night, or rather Saturday in the early morning. A man, gorgeous, handsome, comes back to his restaurant with a girl in each arms. On the counter, an envelope waits. Inside resides an invitation in the form of a crimson heart, surrounded by black roses.<br />a
@@ -1096,7 +1115,7 @@ He was told it’s part of the tradition too.
   {
     id: 7,
     title: "An Exciting Red",
-    author: "Riye Rose",
+    author: riyeRose,
     ship: "adult!Adam/Reki",
     paragraphs:
       `Ep 12 post canon, Adam has come to terms with the reality that he will never have Langa’s heart, despite his best efforts. However, his eye is caught by someone else, a fiery spark of red that he once tried to snuff out. <br />
@@ -1228,8 +1247,8 @@ ADAM laughed aloud this time. “Consider it done, Snowflake.”
   },
   {
     id: 8,
-    title: "Cinnamon Silt",
-    author: "discokonomi",
+    title: "cinnamon silt",
+    author: discokonomi,
     ship: "Adam/Oka",
     paragraphs:
       `There’s wet clay caked into his nails and something a lot like love brushing up against his barren core.<br />
@@ -1303,7 +1322,7 @@ Just silt, finely ground, ready to be washed away.<br />
   {
     id: 9,
     title: "Short Umbrella",
-    author: "keitora",
+    author: keitora,
     ship: "teen!Adam/Cherry",
     paragraphs:
       `Kaoru Sakurayashiki is gay; it's about as notoriously part of the high school scenery as Minato’s husband having gambled away all their money before leaving her, or Honeywell being the worst English Lit teacher you can possibly have. And yet, he does nothing to clear up this founded speculation regarding his sexuality. It’s not uncommon for an all-boys school to have its share of eccentricities, but usually the guys in question at least try to have a girl on the side or purposefully lead others astray about their desires. Ultimately however, no hiding is needed within the walls of the school as there are not many who would dare overtly mock any trait of his - those who did soon found out firsthand that for a scrawny looking guy, he’s actually decently toned and can land a punch if he wants to. Yet then again, not being pestered doesn’t amount to being understood, even if Kaoru seems very little fazed by not having anyone to relate his own situation to.<br />
@@ -1406,7 +1425,7 @@ There’s plenty of time before it stops raining.<br />
   {
     id: 10,
     title: "A Place to Return to",
-    author: "singeiji",
+    author: singeiji,
     ship: "Adam/Cherry/Tadashi",
     paragraphs: `“Let’s start over.”<br />
 The words come to Ainosuke’s lips, unbidden. He doesn’t mean to speak, but he means what he says entirely, hopes for it wholeheartedly. He thinks of crossing the distance between him and Tadashi, thinks of taking Tadashi's hands in his, of letting Tadashi know just how much he burns with it. <br />
@@ -1530,7 +1549,7 @@ It's already worth it.
   {
     id: 11,
     title: "Is it too late now to say sorry?",
-    author: "Lizard",
+    author: lizard,
     ship: "Adam/Cherry/Tadashi",
     paragraphs:
       `All Ainosuke could hear was the sound of the pouring rain against his window. A sudden shower had come out of nowhere and sent everyone running for cover as soon as it was clear to everyone that skating would be impossible for the rest of the night.<br />
@@ -1640,7 +1659,7 @@ He knew there was no text message coming his way right then, but even a chronic 
   {
     id: 12,
     title: "Mother's Recipes",
-    author: "Twileighplants",
+    author: twileighplants,
     ship: "Adam/Joe",
     paragraphs:
       `“You should teach me how to cook,” Ainosuke suggested as he watched Kojiro preparing a meal. He always admired the way Kojiro made his way around the kitchen. There was a sort of grace about it, as he brisked to the stove to stir the sauce that was boiling and turned back to the bread he had been buttering and preparing for the oven. <br />
@@ -1744,7 +1763,7 @@ Kojiro smiled and kissed Ainosuke. “I’ll get the ingredients on my way home 
   {
     id: 13,
     title: "Scar Tissue",
-    author: "queenclaw",
+    author: queenclaw,
     ship: "Adam/Tadashi",
     paragraphs: `Tadashi was, as they say, at the end of his rope. <br />
 
@@ -1999,7 +2018,7 @@ Ainosuke felt like his broad grin could split his face in half.
   {
     id: 14,
     title: "So This is Love",
-    author: "Vanya_Instance",
+    author: vanyaInstance,
     ship: "Adam/Kiriko",
     paragraphs:
       `Tadashi walked down the corridor that led to Ainosuke Shindo’s home office with soft, almost silent steps thanks to the plush carpet that muffled every tread of his hard-soled shoes. He held in his hands, a sheaf of paperwork, and wore on his face, an expression that was impossible to read. Had one been able to, though, it would have been one that spoke of mild irritation. ‘Ainosuke-sama,’ he murmured softly after two polite knocks on the door. ‘She is here again.’<br />
@@ -2123,7 +2142,7 @@ That way when she came back, he would know for sure that this is love.
   {
     id: 15,
     title: "Forever",
-    author: "thechaoscryptid",
+    author: thechaoscryptid,
     ship: "adult!Adam/Langa",
     paragraphs:
       `Ainosuke stands in front of his full-length mirror, lost in thought. His hands rest against his chest but his tie sits unadjusted, waiting for him to drag himself back to the waking world. He knows the car is waiting for him downstairs, ready to whisk him and Langa off to Sia la Luce. It isn’t the first time he’s been this month, or even the second, but it’s been longer for Langa, and tonight, Langa’s word is law.<br /> 
@@ -2298,7 +2317,7 @@ Ainosuke plasters a hand over his chest, feigning offense. “Using my own words
   {
     id: 16,
     title: "Trust Fall",
-    author: "Ness",
+    author: ness,
     ship: "teen!Adam/Langa",
     paragraphs: `<em>Tap. Tap. Tap.</em>
 

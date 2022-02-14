@@ -8,7 +8,7 @@
 .buttonContainer > button {
   border: none;
   padding: 0 1rem;
-  font-size: 3rem;
+  font-size: 2rem;
   background-color: transparent;
   color: var(--text-bright);
   transition: all 300ms ease-in-out;
@@ -21,6 +21,6 @@
 
 @media (max-width: 800px) {
   .buttonContainer > button {
-    font-size: 3em;
+    font-size: 2em;
   }
 }

@@ -1,0 +1,32 @@
+.container {
+  max-height: 90vh;
+  overflow-y: scroll;
+  font-size: smaller;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.container > h1 {
+  text-align: center;
+}
+
+.container h4,
+.container h3 {
+  color: var(--text-bright);
+}
+
+.container li {
+  list-style-type: "❥";
+  padding-left: 0.5rem;
+}
+
+.container li::marker {
+  color: var(--text-bright);
+}
+
+@media (max-width: 800px) {
+  .container {
+    max-height: 70vh;
+  }
+}

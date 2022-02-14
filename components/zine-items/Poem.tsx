@@ -1,6 +1,7 @@
 import styles from "../../styles/Poetry.module.css";
 
 import { PoetryType } from "../../lib/poetry";
+import Author from "../Author";
 
 export interface PoetryItemProps {
   poem: PoetryType;
@@ -11,10 +12,7 @@ export default function PoemItem({ poem }: PoetryItemProps) {
     <div className={styles.container}>
       <div className={styles.poetryTitle}>
         <h2>{poem.title}</h2>
-        <div>
-          <h4>By: {poem.author}</h4>
-          <h4>Ship: {poem.ship}</h4>
-        </div>
+        <Author author={poem.author} ship={poem.ship} />
       </div>
       <div className={styles.poem}>
         {poem.poem.map((stanza, idx) => (

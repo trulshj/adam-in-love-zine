@@ -36,7 +36,7 @@ const FicsOnly: NextPage = () => {
             tabIndex={0}
           >
             <strong>&quot;{(item.content as PoetryType).title}&quot;</strong> by{" "}
-            {item.content.author} <span>- {item.content.ship}</span>
+            {item.content.author.name} <span>- {item.content.ship}</span>
           </a>
         ) : item.type == ZineItemType.Prose ? (
           <a
@@ -46,10 +46,7 @@ const FicsOnly: NextPage = () => {
             tabIndex={0}
           >
             <strong>&quot;{(item.content as ProseType).title}&quot;</strong> by{" "}
-            {item.content.author}{" "}
-            {item.content.ship != "" ? (
-              <span>- {item.content.ship}</span>
-            ) : null}
+            {item.content.author.name} <span>- {item.content.ship}</span>
           </a>
         ) : null
       )}

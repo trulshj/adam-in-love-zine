@@ -20,15 +20,6 @@
   margin: 0;
 }
 
-.poetryTitle > div > * {
-  margin: 0;
-}
-
-.poetryTitle > div {
-  display: flex;
-  gap: 2rem;
-}
-
 .poem {
   font-size: 1.1rem;
   flex: 1;
@@ -38,8 +29,10 @@
 @media (max-width: 800px) {
   .container {
     overflow-y: scroll;
-    max-height: 70vh;
+    height: 1px;
+    min-height: calc(100% - 4rem);
     gap: 1rem;
+    width: 100%;
   }
 
   .poem {

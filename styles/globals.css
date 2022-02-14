@@ -16,6 +16,7 @@ body {
   /* Start #5cbcb0 from 0 and end at 5%, Start #fff at 5% and end at 15%, Start #5cbcb0 again at 15% and end at 100% */
   background-size: cover;
   background-repeat: no-repeat; /* To avoid multiple instances */
+  overflow-y: hidden;
 }
 
 :root {
@@ -55,6 +56,12 @@ a {
 
 * {
   box-sizing: border-box;
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+*::-webkit-scrollbar {
+  display: none;
 }
 
 #__next {
